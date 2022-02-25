@@ -1,0 +1,944 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the honourable Colonel Robert Rolle of Heanton Sachville in the county of Devon esq; by William Trevethick M.A. and pastor of Petrockslow in the same county</title>
+            <author>Trevethick, William, 1612 or 13-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63137</idno>
+            <idno type="STC">Wing T2133A</idno>
+            <idno type="STC">ESTC R219720</idno>
+            <idno type="EEBO-CITATION">99831168</idno>
+            <idno type="PROQUEST">99831168</idno>
+            <idno type="VID">35631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2115:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the honourable Colonel Robert Rolle of Heanton Sachville in the county of Devon esq; by William Trevethick M.A. and pastor of Petrockslow in the same county</title>
+                  <author>Trevethick, William, 1612 or 13-1693.</author>
+               </titleStmt>
+               <extent>[38], 87, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.R. for Edward Brewster at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes and 3 final advertisment pages.</note>
+                  <note>Copy has print show-through; tightly bound.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rolle, Robert --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  John XI, 25 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35631:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL OF THE Honourable Colonel <hi>Robert Rolle</hi> of <hi>Heanton Sachville</hi> in the County of <hi>Devon</hi> Eſq;</p>
+            <p>By <hi>William Trevethick</hi> M.A. and Paſtor of <hi>Petrockſtow</hi> in the ſame County.</p>
+            <q>
+               <bibl>
+                  <hi>Hier. Ad Marcellam de laudibus Aſſeilae.</hi>
+               </bibl>
+               <p>Nemo reprehendat quod in Epiſtolis aliquos aut laudamus, aut carpimus, cum &amp; in arguen<g ref="char:EOLhyphen"/>dis malis, ſit correptio caeterorum: &amp; in optimis praedicandis, bonorum ad virtutem ſtudia concitentur.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> for <hi>Edward Brewſter</hi> at the <hi>Crane</hi> in <hi>Pauls</hi> Church-yard, 1661.
+<pb facs="tcp:35631:2" rendition="simple:additions"/>
+               <pb facs="tcp:35631:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35631:3"/>
+            <pb facs="tcp:35631:3" rendition="simple:additions"/>
+            <head>TO THE Noble and hopefull young Gentleman Mr. <hi>SAMUEL ROLLE,</hi> the only Son and Heir of the Honourable Co<g ref="char:EOLhyphen"/>lonel <hi>Robert Rolle</hi> of <hi>Heanton Sachville</hi> in the County of <hi>Devon</hi> Eſq late de<g ref="char:EOLhyphen"/>ceaſed.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE honour and eſteem which I have born unto your family, ever ſince I had the happineſs to be acquainted with it, together with
+<pb facs="tcp:35631:4"/>the many favours which I have re<g ref="char:EOLhyphen"/>ceived from it, and eſpecially from your Parents of happy memo<g ref="char:EOLhyphen"/>ry; have ſufficiently ingaged me, with all readineſs, to lay hold up<g ref="char:EOLhyphen"/>on any opportunity, of giving teſti<g ref="char:EOLhyphen"/>mony thereof in the beſt manner that I can. In order whereunto I was not unwilling to anſwer the call to the performance of that laſt, though ſad office, of waiting on the fune<g ref="char:EOLhyphen"/>ral Solemnities of that worthy Gentleman, your dear father, and my honoured Patron. An account whereof (ſince you could not be a hearer, that you might have a ſight of it) is here preſented to your view. It was hard for me to think any thing of mine worthy of ſuch publick notice; and it was no leſs difficult to withſtand the deſires of ſuch as (with me) are able to command. Such as it is I here humbly ſubmit it to your in<g ref="char:EOLhyphen"/>genuity and candor; not doubting (although there were little in it
+<pb facs="tcp:35631:4" rendition="simple:additions"/>that might merit your accep<g ref="char:EOLhyphen"/>tance) but that any remembrance of ſuch a father to ſuch a ſon, will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſome favourable entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And now <hi>Sir,</hi> (If with your good leave at leaſt upon this occaſion I may uſe the liberty of being your remembrancer) that the Lord in his wiſe and holy providence hath deprived you of both your parents; It is to give you to learn betimes, to have your dependance on him alone, who is your heavenly father, who ever liveth and careth for you; whoſe eye you are alwayes under, where ever you go, and whatever you do; if you cleave unto him, he will never leave you,<note place="margin">Pſa. 17 10 Iſa 49 15</note> nor for<g ref="char:EOLhyphen"/>ſake you, <hi>When my father and my mo<g ref="char:EOLhyphen"/>ther forſake me,</hi> (ſaith the Pſalmiſt) <hi>then the Lord will take me up.</hi>
+            </p>
+            <p>That you have ſo early (as it were in your firſt ſetting forth) met with the croſs, it may ſeem tedious at preſent, but yet I truſt it
+<pb facs="tcp:35631:5"/>will be for your profit hereafter.</p>
+            <q>Et mage principio grata coronis erit.<note place="margin">Martial.</note>
+            </q>
+            <p>The Lord is a wiſe Father, <hi>That ſon whom he loves,</hi>
+               <note place="margin">Pro. 13.24.</note> 
+               <hi>he chaſteneth be<g ref="char:EOLhyphen"/>times.</hi> He knows how apt our minds are to be corrupted (eſpe<g ref="char:EOLhyphen"/>cially in youth) with eaſe and pro<g ref="char:EOLhyphen"/>ſperity.</p>
+            <q>Luxuriant animi rebus plerun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſecundis</q>
+            <p>
+               <hi>It is therefore good</hi> (ſaith the Pro<g ref="char:EOLhyphen"/>phet) <hi>for a man that he bear the yoak in his youth.</hi>
+               <note place="margin">Lam. 3.27</note> 
+               <hi>Quam utile eſt ad uſum ſecundorum per adverſa veniſſe.</hi>
+               <note place="margin">Plin. Pa<g ref="char:EOLhyphen"/>neg. ad Trajan.</note> If the Lord begin to teach you in your youth, I truſt when you are old he will not forſake you.</p>
+            <p>Eſteem that (I beſeech you) the beſt breeding, to be bred up in the nur<g ref="char:EOLhyphen"/>ture and admonition of the Lord Account no gain like to the gain of wiſdom and godlineſs, no loſs like to the loſs of the favour of God and
+<pb facs="tcp:35631:5" rendition="simple:additions"/>your time. <hi>Titus</hi> the Emperor (who for his humanity and moral vertues, was ſtiled <hi>Deliciae humani generis</hi>) if any day had paſſed with<g ref="char:EOLhyphen"/>out doing of ſome good,<note place="margin">Pezel. mel<g ref="char:EOLhyphen"/>lif. hiſt. part. 2. p. 174.</note> was wont <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> complain, <hi>Amici, diem perdidi,</hi> my friends, I have loſt a day.</p>
+            <p>The eyes of all your friends and relations are upon you, hoping to find their loſs in their honoured and be<g ref="char:EOLhyphen"/>loved friends, your deareſt parents, to be made up in you. And that their expectations may not be fruſtrated; Now is your time to furniſh your ſelf with thoſe abilities, by which you may become ſerviceable to your God, and your King, an ho<g ref="char:EOLhyphen"/>nour and ornament to your Coun<g ref="char:EOLhyphen"/>try and family, and a rejoycing to all that love you and deſire your happineſs. Let neither thoſe en<g ref="char:EOLhyphen"/>dowments of nature, nor theſe prin<g ref="char:EOLhyphen"/>ciples of education and grace which the Lord in a gracious meaſure hath bleſſed you withal, be either loſt or corrupted. The truth is, you are
+<pb facs="tcp:35631:6"/>in the midſt of a world of tempta<g ref="char:EOLhyphen"/>tions and ſnares, ready to beſet you on every ſide. But alas what is the world with all the pleaſures and allurements thereof, but vanity and vexation of ſpirit, like <hi>Creuſa</hi>'s Ghoſt.</p>
+            <q>Par levibus ventis, volucri<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſimillima ſomno.<note place="margin">Virgil. Aenid. l. 2.</note>
+            </q>
+            <p>What is the pleaſure of Hawks and hounds, but a mungril plea<g ref="char:EOLhyphen"/>ſure? What are gamings at Cards and Dice, but the firebrands of paſſion, and the conſumption of treaſure and time? What is there in rioting and drunkenneſs, in cham<g ref="char:EOLhyphen"/>bering and wantonneſs, but the impoveriſhing of the Eſtate, the diſtempring and weak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of the body, and without repentance the ruine both of body and ſoul unto eternity?</p>
+            <p>Thoſe that are the firſt with <hi>Ab<g ref="char:EOLhyphen"/>ner</hi> to call forth the young men thus to ariſe and play, will be the firſt
+<pb facs="tcp:35631:6" rendition="simple:additions"/>with him to cry out at length,<note place="margin">2 Sam. 2.14.26.</note> 
+               <hi>This will be bitterneſs in the latter end.</hi> He that will not be warned of them in time, will mourn at laſt, when his fleſh and his body are conſumed, and ſay, <hi>How have I hated inſtruction, and my heart deſpiſed reproof,</hi>
+               <note place="margin">Prov. 5.11 12, 13.</note> 
+               <hi>and have not obeyed the voice of my teachers, nor inclined mine ear to them that in<g ref="char:EOLhyphen"/>ſtructed me?</hi>
+            </p>
+            <p>Let it not ſeem tedious or grie<g ref="char:EOLhyphen"/>vous unto you, that for a time your condition requires, that you be ſubject to Tutors and Gover<g ref="char:EOLhyphen"/>nours. It is but to this end that by learning firſt how to govern your ſelf, you may be the better qali<g ref="char:EOLhyphen"/>fied to rule and govern others; and the readieſt way to know how to command, is firſt to learn how to obey. If you perſwade your ſelf (as I am apt to believe you do) that thoſe your worthy friends and rela<g ref="char:EOLhyphen"/>tions, to whoſe care and inſpection, the Lord by your father hath com<g ref="char:EOLhyphen"/>mitted you, are both faithfull and
+<pb facs="tcp:35631:7"/>wiſe, and will omit nothing that in conſcience towards God, and Love towards you, they judge neceſſary, nor adviſe you to any thing inex<g ref="char:EOLhyphen"/>pedient or ſuperfluous; and that their affections towards you are ſo real and tender, that nothing will be more their grief, then your not profiting, nor rejoycing, then when they ſhall ſee (through the bleſſing of God upon their endeavours) that as you grow in years and in ſta<g ref="char:EOLhyphen"/>ture, ſo (as is ſaid of our Saviour) that you increaſe in wiſdom and favour with God and man. This will incourage you to attend unto them with patience and content, and to obſerve and practiſe their councels and preſcriptions with di<g ref="char:EOLhyphen"/>ligence and delight. Neither will it leſs profit you, or prevail with you, if you obſerve their practice as well as their precepts. It being a great advantage and furtherance to our inſtruction, when God gives us ſuch for our guides, as will con<g ref="char:EOLhyphen"/>firm
+<pb facs="tcp:35631:7" rendition="simple:additions"/>and clear up their rules by their own examples.</p>
+            <q>
+               <l>Non ſic inflectere ſenſus</l>
+               <l>Humanos edicta valent quam vita re<g ref="char:EOLhyphen"/>gentis.<note place="margin">Claud. de 4. Honori conſolatu paneg.</note>
+               </l>
+            </q>
+            <p>You will find all means little e<g ref="char:EOLhyphen"/>nough, to accompliſh you with thoſe vertues and graces which are requiſite to your condition, though you meet with precept upon pre<g ref="char:EOLhyphen"/>cept, line upon line; one precept upon another, and one example up<g ref="char:EOLhyphen"/>on another. As it is not a common meaſure that you ſhould reſt in; ſo ſhould the means by which you endeavour to attain it be more then ordinary.</p>
+            <p>To abound only in outward things, is rather exceſs than excel<g ref="char:EOLhyphen"/>lency. If you have only more wealth, and higher titles than others, there<g ref="char:EOLhyphen"/>in doubtleſs you may exceed many good men, and as many (if not more) bad men, may exceed you. To be rich, and to abound in the
+<pb facs="tcp:35631:8"/>things of the world, is no more then is common to the wiſe, and to the fooliſh, to the righteous and to the wicked, to be noble and the baſe. But to be rich in good works, and to excell in the endow<g ref="char:EOLhyphen"/>ments of the mind, is peculiar unto them that are truly vertuous and noble. Let it therefore be your endeavour to make it appear, that as much as you are advanced be<g ref="char:EOLhyphen"/>yond others in the favours of the world, ſo much you are above them in the favour of God, and in the vertues and graces of his Spi<g ref="char:EOLhyphen"/>rit.</p>
+            <p>Let not the bounty of God to<g ref="char:EOLhyphen"/>wards you in the things of this life, be abuſed to ſerve either the luſt of the fleſh, the luſt of the eyes, or the pride of life. Leſt while you take and uſe them, rather as a poſ<g ref="char:EOLhyphen"/>ſeſſor of that which is your own, then as a Steward and Diſpencer of that which is anothers; you ſhould be numbred among the men of the
+<pb facs="tcp:35631:8" rendition="simple:additions"/>world, which have their portion in this life.<note place="margin">Pſalm 17 14 Luke 14.25. Luke 6.2.</note> How ſadly will it fare with him, to whom it ſhall be ſaid, <hi>Son remember that in thy life time, thou receivedſt thy good things. Wo unto you that are rich, for ye have received your conſolation.</hi> Yea rather let it be your reſolution, whenſoever the Lord ſhall bring them into your hands, to uſe them as becometh a faithfull and wiſe Steward, even as the inſtruments and ornaments of vertue and grace. And then you ſhall be ſure to be bleſſed when the Lord ſhall come and find you ſo doing. In the mean time the ſea<g ref="char:EOLhyphen"/>ſon and opportunity of giving glo<g ref="char:EOLhyphen"/>ry to God, and gaining honour to your ſelf, by doing of good, is but ſhort and uncertain. Nei<g ref="char:EOLhyphen"/>ther is it ſo much a long life, or a laſting Name, as a good life, and a good name that is de<g ref="char:EOLhyphen"/>ſirable. And that not to be attained by a far fetcht pedigree, or by the
+<pb facs="tcp:35631:9"/>Blazon or diſplay of Heralds, but by noble &amp; vertuous actions; even your Orators and Poets being Judges. <hi>Non perpetua fama,</hi>
+               <note place="margin">Plin. ubi Sup. 47.</note> 
+               <hi>ſed bona concupi<g ref="char:EOLhyphen"/>ſcenda eſt, ea porro non imaginibus &amp; ſtatuis, ſed virtute ac meritis proroga<g ref="char:EOLhyphen"/>tur.</hi>
+               <note place="margin">Virgil.</note>
+            </p>
+            <q>
+               <l>Breve &amp; irreparabile tempus</l>
+               <l>Omnibus eſt vitae,<note place="margin">Aeurid. l. 10</note> ſed famam extendere factis,</l>
+               <l>Hoc virtutis opus.</l>
+            </q>
+            <p>A mans whole life is but a day, and youth is but the morning of that day, and how ſwift are the wings of that morning? how ſoon will your Sun aſcend to its miridian? And aſſoon decline and haſten towards its ſetting. <hi>Ars longa, vita brevis;</hi> there is much work to be done, and but a little time to do it. He that will do his dayes work had need be<g ref="char:EOLhyphen"/>gin in the morning.</p>
+            <p>Let your beſt time be ſpent in do<g ref="char:EOLhyphen"/>ing of your beſt works. Think not the prime and flower of your youth
+<pb facs="tcp:35631:9" rendition="simple:additions"/>too good, to be conſecrated to God and his ſervice. It is no way be<g ref="char:EOLhyphen"/>comming a noble and generous ſpi<g ref="char:EOLhyphen"/>rit, to offer up that which is worſt to God, to beſtow the beſt and choiceſt wine upon the ſervice of ſin, and to reſerve nothing but the dregs for God. Let not your youth be ſpent in making works for repentance in age. That is the ſeaſon which Sa<g ref="char:EOLhyphen"/>tan moſt eſpecially layes hold on to ſpread his nets, and to lay his ſnares, with utmoſt craft and ſubtilty, and to preſs on his temptations with great<g ref="char:EOLhyphen"/>eſt violence; becauſe therein he finds the greateſt ſucceſs, and ſtill promiſeth himſelf the eaſieſt victory It was young <hi>Amnon,</hi> whom he pre<g ref="char:EOLhyphen"/>vails with, and draws to luſt.<note place="margin">2 Sam. 13. beg. v. 28. &amp; ch. 15.</note> And young <hi>Abſolom</hi> whom he wrought to murder and rebellion.<note place="margin">Prov. 7.7.</note> It was a young man over whom the harlot prevailed.<note place="margin">Mat. 19.</note> And it was a young man that would follow Chriſt no farther then he could carry his poſ<g ref="char:EOLhyphen"/>ſeſſions with him. And hence it is
+<pb facs="tcp:35631:10"/>that the Apoſtle ſees cauſe to warn young <hi>Timothy</hi> (though a very good man) to fly youthfull luſts,<note place="margin">2 Tim. 2.22.</note> and to mind <hi>Titus,</hi>
+               <note place="margin">Tit. 2.6.</note> to exhort young men to be ſober minded. That you may be the better able both to diſcern and to avoid ſuch dangers: Let the Word of God wherein you have been inſtructed, <hi>dwell in you richly</hi> (or plenteouſly) <hi>in all wiſdom,</hi>
+               <note place="margin">Col. 3.16.</note> and that will make you rich in wiſdom, even wiſe unto ſalvation,<note place="margin">2 Tim. 3.15.17, 17.</note> and throughly inſtructed to every good work.<note place="margin">Pſalm. 119 9.</note> When the Pſalmiſt puts the queſtion, <hi>Wherewith ſhall a young man cleanſe his way?</hi> His anſwer is, <hi>by taking heed thereto according to thy word.</hi>
+            </p>
+            <q>Non erit hoc artis, ſed pietatis opus.</q>
+            <p>Let no day paſs without conſulting the Oracles of God.<note place="margin">Prov. 20.29.</note> The glory of young men is their ſtrength: May it be your glory to be ſtrong in the Lord,<note place="margin">Epheſ. 6.16.</note> and in the power of his might, and to be ſtrengthned with
+<pb facs="tcp:35631:10" rendition="simple:additions"/>might by his Spirit in the inner man. Thus ſaith the Lord, <hi>Let not the wiſe man glory in his wiſedome, neither let the mighty man glory in his might, let not the rich man glory in his riches: But let him that glorieth, glory in this, that he understandeth and knoweth me,</hi> &amp;c. This was it that incouraged the Apoſtle to write unto young men,<note place="margin">1 Jo. 2.13, 12.</note> 
+               <hi>becauſe they were ſtrong, and the word of God abode in them, and they had overcome the wicked one.</hi> It was no leſs an honour then a comfort to good <hi>Obediah,</hi>
+               <note place="margin">1 Kin. 18.2.</note> that he could ſay, that he feared the Lord from his youth.</p>
+            <p>How was the Apoſtle filled with joy, when he called to re<g ref="char:EOLhyphen"/>membrance the unfained faith that was in <hi>Timothy,</hi>
+               <note place="margin">2 Tim. 1.5</note> which dwelt firſt in his Grandmother <hi>Lois,</hi> and in his mother <hi>Eunice?</hi> And <hi>Timothy</hi> by his ſtedfaſt perſevering in the faith, procured this honour unto his pa<g ref="char:EOLhyphen"/>rents, to have their names made as laſting as the Scriptures. A ſeri<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:35631:11"/>profeſſion of religion and god<g ref="char:EOLhyphen"/>lineſs hath been derived upon you through more generations. To mention the honour and dignity, the wealth and greatneſs of any of your Progenitors: what rich purchaſes they have made, what ſtately ſtru<g ref="char:EOLhyphen"/>ctures they have raiſed, what Ti<g ref="char:EOLhyphen"/>tles of honour they have atchieved, were but vanity, and apt to occa<g ref="char:EOLhyphen"/>ſion evil rather then good. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> (who is ſo much renowned in the book of God for his faith and obedience) is remembred for no other purchaſe then of a place to bury in;<note place="margin">Gen. 22.15</note> for no other buildings, then of Altars to the Lord; and for no higher Titles then ſuch as might ſerve to ſet forth his ſpiritual rela<g ref="char:EOLhyphen"/>tions: <hi>Abraham</hi> the father of the faithfull,<note place="margin">Chap. 23. Gen. 17.5 Rom. 4.17 Gen. 26.24. 2 Chr. 20.7 Iſa. 41.8.</note> the ſervant and the friend of God. It ſufficeth, if with your patience I may mind you, that as God by your Progenitors hath conveighed riches and honour in a large meaſure unto you: ſo that
+<pb facs="tcp:35631:11" rendition="simple:additions"/>it may be your care to leave them with a bleſſing to your progeny. That which may add much to your contentment in the enjoying of them, and to your encouragement in the uſing of them well, amongſt many other reaſons this may be one, That whatever they are, they are not ſuch, as have been either haſti<g ref="char:EOLhyphen"/>ly gotten, or increaſed by uſury or unjuſt gain, which would have left them without a bleſſing.<note place="margin">Pro. 20.21. &amp; 28.8.</note> I re<g ref="char:EOLhyphen"/>ceived it from that worthy Knight and your honoured Grandfather, <hi>Sr. Samuel Rolle:</hi> when he was a<g ref="char:EOLhyphen"/>bout to leave the world, that he ac<g ref="char:EOLhyphen"/>knowledged it (with thankfulneſs to God) as an eſpecial bleſſing that neither he, nor his father, nor his Grandfather, (notwithſtanding their many and great tranſactions in the world) had ever borrowed or lent upon uſury. And indeed it is no leſs a bleſſing to be kept from being tempted with the gain of lending, then to be delivered from the ne<g ref="char:EOLhyphen"/>ceſsity
+<pb facs="tcp:35631:12"/>of borrowing upon uſury. What pity it were that an inheri<g ref="char:EOLhyphen"/>tance ſo juſtly acquired and accom<g ref="char:EOLhyphen"/>panied with ſuch a bleſsing, ſhould ever be miſuſed or miſpent.</p>
+            <p>Let the Juſtice, Temperance, Sobriety, Meekneſs, Moderation, to<g ref="char:EOLhyphen"/>gether with thoſe other vertues which were eminent in your Ance<g ref="char:EOLhyphen"/>ſtors; become yet more eminent in you. Their hatred of vice, and love and practice of vertue, hath rendred their memory gratefull and bleſſed.<note place="margin">Prov. 10.7</note> The very inſtruments and occaſions of evil were an offence unto them. Amongſt other diſ<g ref="char:EOLhyphen"/>orders, againſt which they teſtified their diſlike, gamings at cards and dice, have not been ſo much as to<g ref="char:EOLhyphen"/>lerated in their families (as I have been credibly informed) for well near, if not for more then a full century of years. The religious order obſerved by your great grand<g ref="char:EOLhyphen"/>fathers father (<hi>Henry Rolle</hi> in the government of his family, eſpe<g ref="char:EOLhyphen"/>cially
+<pb facs="tcp:35631:12"/>in the ſanctification of the Lords day, hath been long ſince made publick to the world. I hope the mentioning of theſe things, will not be unto others an occaſion of envy, nor to you of vain-glory. My only aim is to offer them as incitements to god<g ref="char:EOLhyphen"/>lineſs and vertue, and as examples worthy of imitation, and chiefly to you, with whom I truſt they will not be unapt to prevail. The beginning and continuance of them, was their honour, and the per<g ref="char:EOLhyphen"/>fecting and propagating of them will be yours. It is no leſs honou<g ref="char:EOLhyphen"/>rable, than eaſie to add unto that which hath been well begun. And it is a far greater diminution of ho<g ref="char:EOLhyphen"/>nour to poſterity to come ſhort of the vertues of their Anceſtors, then of their outward eſtate or ſplen<g ref="char:EOLhyphen"/>dor in the world. <hi>Quanto majorum vita praeclarior, tanto poſterum ſocor<g ref="char:EOLhyphen"/>dia flagitioſior.</hi> But I truſt (through grace) that there will be no cauſe to
+<pb facs="tcp:35631:13"/>that thoſe things which have been ſo happily begun, and ſo long con<g ref="char:EOLhyphen"/>tinued, and that with ſuch remark<g ref="char:EOLhyphen"/>able teſtimonies of the favour and bleſsing of God, ſhall receive ei<g ref="char:EOLhyphen"/>ther an end or an abatement in you. It was cauſe of rejoycing to hear, how affectionately you re<g ref="char:EOLhyphen"/>ceived the wiſe and holy admo<g ref="char:EOLhyphen"/>nitions and counſels of your dying father. I hope they will ever live with you, and you in them. I ſhall add no more, but that which <hi>Da<g ref="char:EOLhyphen"/>vid</hi> by inſpiration from God, when he was a dying, ſpake unto <hi>Solomon</hi> his Son, and which the Lord by him ſpeaks unto every ſon of a re<g ref="char:EOLhyphen"/>ligious parent, <hi>Know thou the God of thy Father, and ſerve him with a per<g ref="char:EOLhyphen"/>fect heart, and with a willing mind: for the Lord ſearcheth all hearts; and understandeth all the imaginations of the thoughts: if thou ſeek him he will be found of thee; but if thou forſake him, he will caſt thee off for ever.</hi>
+            </p>
+            <p>That the Lord may be the guide
+<pb facs="tcp:35631:13" rendition="simple:additions"/>of your youth, the ſtrength and ſhield of your life, and in life and death your exceeding great reward, is the hearts deſire, and prayers to God of him, who is,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Yours, moſt affectionately and humbly to ſerve you for your ſouls good.</hi> William Trevethick.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35631:14"/>
+            <pb facs="tcp:35631:14" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE intent and ſcope of the enſuing diſ<g ref="char:EOLhyphen"/>courſe, is the com<g ref="char:EOLhyphen"/>forting of the liv<g ref="char:EOLhyphen"/>ing, and the com<g ref="char:EOLhyphen"/>memorating and vindication of the dead. For the for<g ref="char:EOLhyphen"/>mer, the grounds are the ſame, which Jeſus Chriſt made uſe of to the ſame purpoſe, being taken from that which is a main article of our faith, and the ſupport and ſtay of our Chriſtian hope; <hi>to wit,</hi> the reſurrection of the dead, to<g ref="char:EOLhyphen"/>gether with the power and intereſt which Chriſt hath in it.</p>
+            <pb facs="tcp:35631:15"/>
+            <p>For the latter, that which is here delivered hath not proceeded from any great affection that I bear to Panegy<g ref="char:EOLhyphen"/>ricke or Encomiaſtical Pulpit-diſcourſes in the behalf of the dead. I know well how much they are diſtaſted by many grave and learned Divines, who have judged them prejudicial to the reputation of the Miniſter, in expoſing him to cenſure; to the honour of the dead, in that the forwardneſs of the Son, to ce<g ref="char:EOLhyphen"/>lebrate their vertues, may occaſion others, to become the more buſie in diſcovering and publiſhing their vices: and to the edification of the living, many of which may be too apt to take occaſion there<g ref="char:EOLhyphen"/>hence, to grow the more regardleſs of well doing, preſuming that however they behave themſelves while they live, they ſhall not miſs of praiſes enough when they are dead. Nevertheleſs their cen<g ref="char:EOLhyphen"/>ſure being not ſo general, but that even themſelves admit of ſome exceptions. As where the perſon hath been of eminent de<g ref="char:EOLhyphen"/>ſert, their lives free from manifeſt ſcan<g ref="char:EOLhyphen"/>dal, or where their names either have been, or are apt to be traduced. As for the former reaſons I have moſt uſu<g ref="char:EOLhyphen"/>ally in my Sermons upon ſuch occaſions totally forborn them; ſo for the latter I
+<pb facs="tcp:35631:15" rendition="simple:additions"/>have been moved to make ſome uſe of them in this; and I truſt without offence to any that are ſober minded: for if they conſider what great pains and charge many heathens have been at in embalming and interring the <hi>bodies</hi> of ſuch of their dead,<note place="margin">Herod. Euterpe.</note> as deſerved well of them while they lived, only becauſe they ſuppoſed it a<note n="*" place="margin">Su 53. prema officia ju<g ref="char:EOLhyphen"/>ſta Voca<g ref="char:EOLhyphen"/>runt Lati<g ref="char:EOLhyphen"/>tini, quod juſte fie<g ref="char:EOLhyphen"/>rent lis, qui de no<g ref="char:EOLhyphen"/>bis bene merentes mortui fu<g ref="char:EOLhyphen"/>erant.</note> duty of nature and humanity, They will at leaſt bear with us, if (according as we are<note n="†" place="margin">Dr. Feat. Cav. myſt. p. 831.</note> taught) we take it to be as much, if not more a duty of Chriſtian charity to keep <hi>alive our friends good name</hi> as to bury his dead body. And indeed it is of a far more laſting obligation. This is but once to be performed, but that is ever to be maintained. This is the duty but of a day, but that of our whole life.</p>
+            <p>
+               <hi>A good name is that which all good men do much ſet by:</hi> as that which is as neceſſary for themſelves in reſpect of others, as a good conſcience is for them<g ref="char:EOLhyphen"/>ſelves. <hi>It is better than precious oint<g ref="char:EOLhyphen"/>ment</hi> (ſaith the wiſe man.) <hi>Oyntment</hi> be it never ſo precious, doth but affect the outward ſenſe; but a good name af<g ref="char:EOLhyphen"/>fects the hearts of thoſe to whom it comes. The ſavour of a precious oyntment may fill the houſe, <hi>but a good name fills the
+<pb facs="tcp:35631:16"/>Countrey.</hi>
+               <note place="margin">Joh. 12.3. Mar. 6.14.</note> That continues but for a little ſpace, but for a moment, but this for ages, for generations, it out-lives the Owner, is too ſtrong for death, and triumphs over the grave. Precious oynt<g ref="char:EOLhyphen"/>ment may be common to all that are rich, but a good name is peculiar only to ſuch as are good. Therefore it is alſo ſaid, <hi>That a good name is rather to be cho<g ref="char:EOLhyphen"/>ſen then great riches.</hi>
+               <note place="margin">Prov. 22.1 Honor ho<g ref="char:EOLhyphen"/>minis prae<g ref="char:EOLhyphen"/>cipuus the<g ref="char:EOLhyphen"/>ſautus eſt, Baldus caſ. conſc. l. 4. c. 1. c 15 Pro. 15.30</note> It is of more va<g ref="char:EOLhyphen"/>lue, ſilver and gold cannot purchaſe it. It doth more good to him that poſſeſſeth it, it quiets and comforts the ſoul, and maketh the bones fat: It procures more and better friends; every good man will be a friend to him that hath a good re<g ref="char:EOLhyphen"/>port. It doth more good to others, by provoking and incouraging them to the study and practice of goodneſs, by which only a good name is to be acquired. It is one of thoſe ſpecial bleſſings which God hath promiſed to ſuch as love (and are beloved of) him.<note place="margin">Gen 12.2 Pro. 10.7.</note> 
+               <hi>To do well is our duty, and to hear well a great part of our reward.</hi>
+               <note place="margin">Heb. 11.39.</note> And therefore by how much the more precious it is, and by how much the more every man is concerned in it, by ſo much the more carefull we ſhould be to preſerve our own,<note place="margin">Periculum famae ae<g ref="char:EOLhyphen"/>riculo. vitae &amp; crudelis eſſe puta<g ref="char:EOLhyphen"/>tur qui fa<g ref="char:EOLhyphen"/>mam ſuam negligit, Bald. ibid. Exod. 21.24 Levit. 24.20 Deut. 19.21</note> and by ſo much the more tender of ſtaining or blemiſhing that
+<pb facs="tcp:35631:16" rendition="simple:additions"/>which is anothers. And if the Lawes of God and of man be ſo ſevere against ſuch as ſpoil their neighbour of any part of his eſtate, or deprive him of any limb or member of his body: There is little reaſon for ſuch as do him a greater in<g ref="char:EOLhyphen"/>jury (as in robbing him of his good name) to expect an eaſier Judgment.</p>
+            <p>But as God will not ſuffer his ſervants to want ſuch as ſhall bear witneſs to their graces, and cauſe the ſavour of their good report to ſprend abroad. So Satan <hi>(who is the envious one)</hi> wants not his inſtruments,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 Tim 3 3</note> (communicating with him both in nature and name) are ready to follow them with a flood of calumnies and reproaches.<note place="margin">Quanto ille cui in<g ref="char:EOLhyphen"/>videtur ſucceſſu meliore profecerit, tanto invi<g ref="char:EOLhyphen"/>dus in ma<g ref="char:EOLhyphen"/>jus. Prov. 27.4.4 incendium livoris ig<g ref="char:EOLhyphen"/>nibus mardeſcit. Cyprian de zelo et li<g ref="char:EOLhyphen"/>vore.</note> And indeed envy is the or<g ref="char:EOLhyphen"/>dinary lackey at the heels of vertue, which ever increaſeth with the merit of its ob<g ref="char:EOLhyphen"/>ject, and wiſheth and deſigneth the worſt evil, to the greateſt good, even to annihi<g ref="char:EOLhyphen"/>late or to reduce it into nothing. And hence as hatred is one of the worſt of paſ<g ref="char:EOLhyphen"/>ſions, ſo envy is one of the worſt and moſt dangerous effects of hatred. Wrath us cruel, and anger is outragious, but who is able to ſtand before envy? ſurely not our firſt parents in their innocency be<g ref="char:EOLhyphen"/>fore the envy of the ſerpent, nor <hi>Abel</hi> in his righteouſneſs, before the envy of <hi>Gain,</hi>
+               <pb facs="tcp:35631:17"/>nor <hi>Joſeph</hi> in his integerity,<note place="margin">Prov 14 30. Job. 52</note> before the envie of his brethren; nor Jeſus Chriſt in his perfection, before the envie of the Phariſees; no northe envious man before himſelf. Envy is the rotteneſſe of the bones. And envy ſlayeth the ſilly one. He is grieved at that good in another which never hurt him, but from which he might receive much good, and by which he might be made much better. Yea he often repineth at that good in ano<g ref="char:EOLhyphen"/>ther which he loathes,<note place="margin">Acts 13 44 45</note> and hates to receive in himſelf.</p>
+            <p>And where envy is once conceived in the heart, evill ſpeakings will ſoon breake out in the tongue; and ſecret whiſper<g ref="char:EOLhyphen"/>ings into open backbitings.<note place="margin">Rom. 1 29 30 2 Cor. 12 20 1 Pet. 21</note> Theſe are the ordinary attendants on envy. And an evil report, being uſually at first, but whiſpered in the eare (<hi>Parva me<g ref="char:EOLhyphen"/>tu primo</hi> ſaith the poet) is readily taken up,<note place="margin">Virgit.</note> by ſuch as to whom it is as rare to ſpeake good of others, as to do good themſelves. And being once ſet on foot, it makes a ſhift to ſpread, though it be but reeling from Taverne to Ta<g ref="char:EOLhyphen"/>verne, and from Alchouſe to Alehouſe, (the common ſhops where ſuch wares are vented) <hi>Bacchatur fama per urbem.</hi> It is an elegant deſcription of Fame which is given by the Poet.</p>
+            <pb facs="tcp:35631:17" rendition="simple:additions"/>
+            <q>
+               <l>Monſtrum horrendum, ingens,<note place="margin">Aeveid. l. <hi>4</hi>
+                  </note> cui quot ſunt corpore plumae,</l>
+               <l>Tot vigiles oculi ſubter,—</l>
+               <l>Tot linguae; totidem ora ſonant, tot ſubrigit aures.</l>
+            </q>
+            <p>A dreadfull monſter (ſaith he) that hath as many eyes, and eares, and tongues, as a bird hath feathers. To note how quick ſhe is in eſpying, how curious in liſtning, and how buſy in divulging of evil. He calls her indeed a Goddeſſe, but with all gives her an attribute ſuitable to her deity. <hi>Dea foeda,</hi> The uncleane Goddeſſe, that pollutes and deſiles every thing ſhe tou<g ref="char:EOLhyphen"/>cheth, the tongues of ſuch as report, and the eares of ſuch as hear, and the hearts of ſuch as give her the readieſt enter<g ref="char:EOLhyphen"/>tainment, and eſpecially the names of ſuch as ſhe traduceth: It being her de<g ref="char:EOLhyphen"/>ſigne, to diſguiſe the faireſt and moſt unblemiſhed names, and ſo to expoſe them to publike cenſure, under the deform<g ref="char:EOLhyphen"/>ed vizor of an evill report.</p>
+            <p>How much the name, and repute of this worthy gentleman, (upon whoſe account, this is tendered to thy view) hath ſuf<g ref="char:EOLhyphen"/>fered
+<pb facs="tcp:35631:18"/>in this way, is more then enough known already; and how unjuſtly may in part appear, by that which followes in the cloſe of this diſcourſe: what is there delivered is (as hath been ſaid) much more then I uſe, but yet far leſſe then he deſerved. The truth is, however in ordinary converſe he was most affable yet in affaires of conſequence he was ſuf<g ref="char:EOLhyphen"/>ficiently reſerved. It was his uſe when his occaſions did require it, to have recourſe to ſuch as by reaſon of their callings and em<g ref="char:EOLhyphen"/>ployments were most likely to give him ſatisfaction. He was not wont to conſult his Phyſitians in matters of Divinity, nor his Miniſter in matters of Phyſicke, nor either in matters of State. He knew well what influences was like to proceed from ſuch ſtarres as moved beyond the sphere of their own activity. All that I can pretend unto is little more then was obvions to common obſervation. Only the experience I had of him, and the oppor<g ref="char:EOLhyphen"/>tunity of converſe for many yeares, may inable me to adde this much, for the farther confirmation of that which hath been ſaid, That he was a perſon (as far as I could diſcerne) no way biaſſed by private or ſelfe interest. Places of pro<g ref="char:EOLhyphen"/>fit he neither needed, nor diſired at all;
+<pb facs="tcp:35631:18" rendition="simple:additions"/>and places of power, or truſt, not ſo much as was wiſhed. He was ſenſible of the vanity and danger of popular ap<g ref="char:EOLhyphen"/>plauſe, and therefore willingly declined it. Not but that he highly prized the affecti<g ref="char:EOLhyphen"/>ons of his country of which he had frequent and large experience, and was willing to ſerve them. But that he might not be raſhly hurried on upon deſignes, where he ſaw neither rationall nor probable grounds to hope to accompliſh them. He knew well that men are apt to be eſteem<g ref="char:EOLhyphen"/>ed: not according to their undertakings or endeavours, but ſucceſſe. And the ſame men who are moſt prodigall in praiſing the courage of ſuch as are bold and for<g ref="char:EOLhyphen"/>ward in attempting, will be no more ſpar<g ref="char:EOLhyphen"/>ing to upbraid them with raſhneſſe and folly, if in the iſſue, or event, they an<g ref="char:EOLhyphen"/>ſwer not their expectations. The taunts, and reproaches of light and inconſiderate perſons, he valued at a low rate, ſuppoſ<g ref="char:EOLhyphen"/>ing them to be promoted by ſuch as rather envied then deſired his happineſſe; and it may be, were angry becauſe they could not do him a greater diſpleaſure. It is the eaſieſt way of blunting the edge of Calumny, to ſlight and to neglect it.</p>
+            <p>But what need I ſay more? Since the
+<pb facs="tcp:35631:19"/>Lord in his most wiſe and gracious provi<g ref="char:EOLhyphen"/>dence hath, in a good meaſure, removed that which was one maine cauſe, of all theſe evils, (to wit our civil broiles) and that in ſuch a way, as who would ever have expected, that after all thoſe miſerable di<g ref="char:EOLhyphen"/>ſtractions and confuſions, that were grown ſo generall, and dreadfull, throughout the Chriſtian world; to the diſhonour of God, the ruin, and destruction of Chriſtian poople, and to the infinite reproach of our Chriſtian profeſſion; even when they were at their very height, and when (accord<g ref="char:EOLhyphen"/>ing to humane apprehenſion) nothing was to be expected (at leaſt in theſe nations) but utter deſolation: The Lord himſelf in zeal to the glory of his own name, and in com<g ref="char:EOLhyphen"/>paſſion to his people ſhould ſend us help from his holy place. And that alſo in ſuch a way of love and peace, as became him who is the God of love and peace, which if duly con<g ref="char:EOLhyphen"/>ſidered according to all its circumſtances, was ſuch a miracle of mercy as our progeni<g ref="char:EOLhyphen"/>tors never ſaw, and our poſterity will not believe. Sufficient (if any thing may be ſufficient) to provoke us to be at love, and peace, amongſt our ſelves. The ſeaſon, and inſtruments, which he had appoint<g ref="char:EOLhyphen"/>ed for this work, he reſerv'd to be diſ<g ref="char:EOLhyphen"/>poſed of by himſelf; that he alone
+<pb facs="tcp:35631:19" rendition="simple:additions"/>might appeare to be both the Auther and the finiſher of it. When his time was come, and his inſtruments were ſet on work, all things ſucceeded without let, or interruption. The leſſe there appeared of man, the more of God: and he that aſcribes all the glory to him, Shall have never the leſſe himſelf. For he hath ſaid, thoſe that honour him, he will ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>Having therefore ſuch an inſtance of the kindneſſe and love of God,<note place="margin">1 Sam. 2 30</note> towards ſuch a people as were living in malice &amp; envy, hate<g ref="char:EOLhyphen"/>full or hated, and hating one another. I may conceive the better hopes, that ſuch as do deſire to approve themſelves to be like unto God, and are not utterly void of that moſt Christian grace of Charity, will be the more apt to accept of that which is here tendered for their ſatisfaction in the behalf of the dead. And for others, who being little studious of doing good themſelves, are beſt at leiſure to find faults in others, as <hi>Hierome</hi> speakes, <hi>Qui ſua non ornant, aliena carpunt,</hi> My prayer ſhall be, that God will give them better mindes, and then, and not till then, will they effectually know it to be their duty<note n="a" place="margin">Mat. 7.12</note> to do to others as they would others ſhould do to them; and to ſet as much by
+<pb facs="tcp:35631:20"/>the esteem of others as they would that o<g ref="char:EOLhyphen"/>thers ſhould ſet by theirs. In the mean<g ref="char:EOLunhyphen"/>time Let all Chriſtians mind that it is their duty,<note n="b" place="margin">Jam. 4.11</note> 
+               <hi>not to ſpeak evil one of an<g ref="char:EOLhyphen"/>other,</hi>
+               <note n="c" place="margin">Pſ. 15.2</note> no nor to hear evil either <hi>ne au<g ref="char:EOLhyphen"/>ribus caluminiari.</hi> They are ſaid to be far from good men, who give<note n="d" place="margin">Pro. 17.4 1 Pet. 2.17</note> heed to falſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lips, or a naughty tongue. Let us make conſcience of the contrary duty.</p>
+            <p>
+               <hi>We owe<note n="e" place="margin">Job. 31 13.14 15</note> honour to all men.</hi> What man ſo deſpicable, that hath not ſome<g ref="char:EOLhyphen"/>thing in him, that is worthy of ho<g ref="char:EOLhyphen"/>nour. He hath communion with us in the ſame<note n="f" place="margin">Pro. 22.3</note> nature, and is capable of communion with us in the grace and glory<note n="g" place="margin">
+                  <hi>Ro. 14.4</hi> vid. Ameſ. de conſ. <hi>l. 5 c. 13.</hi>
+               </note>. It is true wicked men are not to be honoured as they are ſuch, nor ſo as may confirm or incourage them, or others to have fellow<g ref="char:EOLhyphen"/>ſhip with them, in their evill ways. Yet we may not deny them a teſtimony of that vertue which is in them; nor deprive them of that honour which God hath put upon them; Leſt we ſhould reproach the Almighty, or deſpiſe the wayes of his providence, as if he might not do with his own as he pleaſed.<note place="margin">Mat. 20.15 Rom. 13.7</note> Shall our eye be evil becauſe he is good? We muſt render unto all their dues, even honour to whom honour is due. Alas if this be all that wicked men ſhall have, it is but a ſlen<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:35631:20" rendition="simple:additions"/>portion, and ſuch as affords but ſmall matter of glorying unto them, or of envy unto us. In a word A good name is that <hi>depoſitum</hi> or <hi>pledge,</hi>
+               <note place="margin">Peccat qu audit ſugil<g ref="char:EOLhyphen"/>lantem, ſeu detrahene<g ref="char:EOLhyphen"/>tem, aſſenti<g ref="char:EOLhyphen"/>endo, vel non reſiſtendo, quam id fa<g ref="char:EOLhyphen"/>cere deberet Azpilcueta manual. con<g ref="char:EOLhyphen"/>feſ. <hi>c. 18. n. 37.</hi>
+               </note> wherewith every man is intruſted in the behalf of his neigh<g ref="char:EOLhyphen"/>bour; and it is a crime of an high nature to be unfaithfull in a common trust.</p>
+            <p>That I might not offend either by aſſen<g ref="char:EOLhyphen"/>ting to, or not reſiſting of ſuch an evil, (as a learned caſuist ſaith I might) I have endeavoured in ſome meaſure to right the wronged, and to rectify the wrong-doer. And it is not unlikely but that ſuch as have of<g ref="char:EOLhyphen"/>fended through evil affection will be im<g ref="char:EOLhyphen"/>patient of being contradicted. Where a thoſe that have failed through miſtak or inadvertency, will take it in good part to be better informd, the proofe whereof I ſhall leave to ſuch as think it worth the obſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Being ſomewhat ſenſible, that while I have been pleading for others, I may be thought to need an Apology in the behalf of my ſelf, for that I have pre<g ref="char:EOLhyphen"/>ſumed ſo far upon the patience of the reader, who may be apt to blame me for making the porch too large for the houſe, or for prefixing ſuch large Epiſtles to a ſingle Sermon. But for this I ſhall ſay, That the ſin of uncha<g ref="char:EOLhyphen"/>ritableneſſe
+<pb facs="tcp:35631:21"/>is great and spreading, and we can<g ref="char:EOLhyphen"/>not lightly raiſe the feuce too high againſt it. And for both, I ſhall ſay, no more but this. That when we ſpeake, or write, or hear, or read for God, or our ſouls, to cauti<g ref="char:EOLhyphen"/>on againſt ſin, or to quicken to duty; we ſhould not eaſily ſuffer our ſelves to complain of tediouſneſſe. The Apoſtles of Chriſt though their Epiſtles be not very ſhort, yet ſay they had written breifly &amp; in few words; as to ſhew the excellency of the matter, and their zeal to their duty; ſo alſo, to in<g ref="char:EOLhyphen"/>timate, that as themſelves had not been weary in writing,<note place="margin">Hebr. 13 22 1 Pet. 5.12</note> ſo neither ſhould they to whom they had writen, be weary in reading, If that which is here tendred thou ſhalt re<g ref="char:EOLhyphen"/>ceive and uſe with profit, neither of us ſhall have cauſe to repent of our labour. And that it may be ſo, <hi>I</hi> ſhall make this my only requeſt,<note place="margin">Iſa. 48.17</note> that we may mutually com<g ref="char:EOLhyphen"/>mend each other to him who hath ſaid that he is <hi>the Lord our God which reacheth us to profit.</hi>
+            </p>
+            <closer>
+               <signed>Thine in the ſervice of Chriſt <hi>William Trevethick.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:35631:21" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOHN. 11.25.</hi>
+                  </bibl>
+                  <p>Jeſus ſaid unto her, I am the re<g ref="char:EOLhyphen"/>ſurrection and the life: he that believeth in me, though he were dead, yet ſhall he live.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He hiſtoricall narration of Chriſts miraculous raiſing <hi>Lazarus</hi> from the dead; as alſo of the preparations to it, and the conſequents of it, are the main ſubject matter of the Evangeliſts diſcourſe in this chap<g ref="char:EOLhyphen"/>ter.</p>
+            <p>That we may know who this <hi>Lazar<g ref="char:EOLhyphen"/>us</hi> was, he is ſet forth (<hi>v.</hi> 1.) by the indiſpoſition of his body, he was ſick: and alſo by the place of his abode,
+<pb n="2" facs="tcp:35631:22"/>he was of <hi>Bethany.</hi> Which place is deſcribed, 1. By ſome others of its inhabitants (as it ſeemes) better known to the diſciples then <hi>Lazarus</hi> was. It was the Town of <hi>Mary</hi> and her ſiſter <hi>Martha.</hi> 2. By its Scitua<g ref="char:EOLhyphen"/>tion, it was nigh unto <hi>Jeruſalem,</hi> a<g ref="char:EOLhyphen"/>bout fifteen furlongs off, <hi>v.</hi> 18. At this time the condition of the place was ſuit<g ref="char:EOLhyphen"/>able to its name, <hi>Bethany</hi> (according to the notation of the word) ſignifying a houſe of ſorrow or mourning. <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> a noted man of the town is dead, and there is much ſorrow, and many mour<g ref="char:EOLhyphen"/>ners. <hi>Mary</hi> and <hi>Martha</hi> his ſiſters are weeping, the Jews alſo that came to comfort them weep, yea even Jeſus Chriſt himſelf wept. <hi>v.</hi> 33, 35. Here was a great mourning at <hi>Lazarus</hi> his grave. We read of one <hi>Lazarus</hi> men<g ref="char:EOLhyphen"/>tioned by Jeſus Chriſt <hi>Luke</hi> 16.20. But whether that diſcourſe be parabolicall as<note n="a" place="margin">Theophi<g ref="char:EOLhyphen"/>lact. Juſtin. q. <hi>60.</hi> Theo<g ref="char:EOLhyphen"/>philus An<g ref="char:EOLhyphen"/>tiochen. <hi>l. 4.</hi> All<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gor. Eucher. in quaeſt in Lu<g ref="char:EOLhyphen"/>cam. Alius preterea nemo, quod ſciam. Quin om <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s alii auctores historiam eſſe dicunt inquit Maldon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. in loc.</note> ſome, or hiſtoricall as<note n="b" place="bottom">Tertull an l. de anima. <hi>c. 2.</hi> Ambr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. Jren. <hi>l. 2. c. 62.</hi> &amp; plures al<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> apud Mal donat. Calvin. in loc.</note> moſt of the ancients affirm:<note n="c" place="bottom">Tertullian adverſus Mar<g ref="char:EOLhyphen"/>cionem <hi>l. 4. p. 274.</hi> edit. Baſil. <hi>1562.</hi>
+               </note> 
+               <note n="d" place="bottom">
+                  <hi>Pet. Martyr in</hi> 1 lib. S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. c. 28. p. 161.</note> Some of which under<g ref="char:EOLhyphen"/>ſtanding
+<pb n="3" facs="tcp:35631:22"/>by the rich man to be meant <hi>Herod,</hi> and by <hi>Lazarus John</hi> the Baptiſt, ſuppoſing, as it ſeemes, that Chriſt conceald their proper nam's to avoid the odium of the times.</p>
+            <p>Or whether that be a mixt diſcourſe, partly hiſtoricall, and partly paraboli<g ref="char:EOLhyphen"/>call, as<note n="a" place="margin">Maldon. in loc. Menoch. in loc.</note> others conceive: however otherwayes they differ, they generally agree that <hi>Lazarus</hi> spoken of there was not the ſame with him whom Jeſus raiſ<g ref="char:EOLhyphen"/>ed from the dead. As it may alſo far<g ref="char:EOLhyphen"/>ther a pear by his outward eſtate and condition in the world. <hi>Lazarus</hi> ſpoken of in <hi>Luke,</hi> is ſaid to have been a poor miſerable begger, ready to periſh through want. But this whom Chriſt raiſed again, was no way likely to be ſuch. His ſiſters (whoſe affection towards him, ſufficiently manifected in this diſ<g ref="char:EOLhyphen"/>courſe, would not fuffer them, to ſee him beg) ſeem to be perſons of wealth and repute, (to omit the conjectures of<note n="b" place="margin">Vid Cal<g ref="char:EOLhyphen"/>vin. &amp; Maldon. &amp; Menoch. in loc.</note> ſome) even by that magnificent act of <hi>Mary,</hi> in powring that precious oint<g ref="char:EOLhyphen"/>ment on the head of Chriſt, which Judas ſaid might have been ſold for<note n="c" place="margin">300 pence after the rate of 7 d. ob. (the value of their penny) amounts to 9 l.—07 s. —06, ſterling. Bunting. <hi>Itinerarium</hi> p. 391.</note> 300 pence <hi>Joh.</hi> 12.5. yea and for more, <hi>Mar.</hi> 14.5.</p>
+            <pb n="4" facs="tcp:35631:23"/>
+            <p>An act ſo graciouſly accepted and ſo highly honoured by Chriſt,<note place="margin">Mat. 26.13</note> that it is fol<g ref="char:EOLhyphen"/>lowed with a memorial of as larg extent, and of as long continuance as the preaching of the Goſpel. Sufficient to argue her condition was not very mean. Beſides the great concourſe of the citi<g ref="char:EOLhyphen"/>zens of <hi>Jeruſalem,</hi> to viſit and comfort them: which was, ſaith <hi>Maldonat, prop<g ref="char:EOLhyphen"/>ter Marthae Mariaeque nobilitatem aliaſ<g ref="char:EOLhyphen"/>que virtutes,</hi>
+               <note place="margin">Mos erat Judaeoru<g ref="char:cmbAbbrStroke">̄</g>, mortuos prae<g ref="char:EOLhyphen"/>ſertim ho<g ref="char:EOLhyphen"/>norabiliores, in Sepelun<g ref="char:EOLhyphen"/>cis Sepelire.</note> for the reſpect they did bear to their nobility, and other vitues. And alſo the manner of his interment, being buryed in a cave or vault; which (as is ſaid) was moſt uſual for ſuch as were more honourable and of the better ſort.</p>
+            <p>But to paſſe by thoſe things which are of the loweſt concernment. There are other intimations given by the Evange<g ref="char:EOLhyphen"/>liſt, by which they are rendred more tru<g ref="char:EOLhyphen"/>ly remarkable, and of eminent worth and note to us: which are,</p>
+            <p n="1">1 Their mutuall love, manifeſted each to other, by their cohabitation, (or dwelling together) not only in the ſame town, but alſo as it ſeemes in the ſame houſe: And farther by their mutuall care for each other, as here, when <hi>Lazarus</hi> was ſick, their firſt and chief care was to ſend for Jeſus Chriſt, the
+<pb n="5" facs="tcp:35631:23"/>great phyſitian both of ſoul and body.</p>
+            <p n="2">2 Their love to Jeſus Chriſt, eviden<g ref="char:EOLhyphen"/>ced by their frequent attending on him, and entertaining of him; taken notice of, and commended in all the Evange<g ref="char:EOLhyphen"/>liſts. <hi>Matth.</hi> 26.6, &amp;c. <hi>Mark.</hi> 14.3, &amp;c. <hi>Luke</hi> 10.38, 39. <hi>Joh.</hi> 12.2, 3.</p>
+            <p n="3">3 Jeſus Chriſt his love to them all, as is expreſſed in the fifth <hi>ver.</hi> of this chap<g ref="char:EOLhyphen"/>ter, where it is ſaid that Jeſus loved <hi>Mary</hi> and her ſiſter and <hi>Lazarus.</hi> Which he alſo makes manifeſt, by his ſympa<g ref="char:EOLhyphen"/>thizing with them in their ſorrowes, in<g ref="char:EOLhyphen"/>ſtructing them where they are ignorant, ſtrengthening their faith, comforting them in their afflictions, raiſing up again of <hi>Lazarus</hi> from the dead, <hi>&amp;c.</hi>
+            </p>
+            <p>Thus they that love Chriſt, and love one another are beloved of Chriſt.</p>
+            <p>The preparatory acts, that go before this miracle are:</p>
+            <p n="1">1 the meſſage which his ſiſters ſent to Chriſt, to acquaint him with his ſickneſſe. That they went not themſelves but ſent, might proceed from the regard they had to their brothers weakneſſe, and their own modeſty. Suitable whereunto is the meſſage which they ſend, wherein they preſcribe nothing as to his comming, or
+<pb n="6" facs="tcp:35631:24"/>ſending or doing, but only commend-his caſe to Chriſt ſaying, <hi>Lord behold he whom thou loveſt is ſick,</hi> v. 3. and ſo leav<g ref="char:EOLhyphen"/>ing him to the freedom of his own will, to do as ſeemed good unto him. Which argues the ſobriety, ond meekneſſe of their ſpirits, that in a matter of the great<g ref="char:EOLhyphen"/>eſt weight, even in a caſe of life and death, they were ſo ready to ſub<g ref="char:EOLhyphen"/>mit unto his pleaſure, whereunto we have</p>
+            <p n="2">2 The anſwer which Jeſus Chriſt re<g ref="char:EOLhyphen"/>turn'd by the meſſenger ſent him, where<g ref="char:EOLhyphen"/>in he aſlures them of life, and ſafety to the ſick, and of advantage to the glory of God and of Chriſt. <hi>This ſickneſſe ſaith he is not unto death, but for the glory of God, that the ſon of God may be glorified thereby,</hi> v. 4. And this we may be ſure to gain by an hummble, and ſubmiſſive addreſſe to Chriſt, in the ſick<g ref="char:EOLhyphen"/>neſſe of the body; though we may not be ſure to be freed from death temporall, yet we may be ſure of comfort in the promiſe of being freed from death etern<g ref="char:EOLhyphen"/>all. However this ought to ſupport the ſpirit of a Chriſtian, that Chriſt ſhall be magnified in his body, whether it be by life or by death <hi>Phil.</hi> 1.20.</p>
+            <pb n="7" facs="tcp:35631:24"/>
+            <p n="3">3 The diſcourſe which Ieſus Chriſt had upon this occaſion with his diſciples, wherein he ſignfieth to them, his pur<g ref="char:EOLhyphen"/>poſes to return into <hi>Judea</hi> to raize up <hi>Lazarus</hi> from death; wherein he ſuf<g ref="char:EOLhyphen"/>fers not himſelf to be diſcouraged from his duty, by the danger which they ſug<g ref="char:EOLhyphen"/>geſted, might attend him in the doing of it; with all giving them to under<g ref="char:EOLhyphen"/>ſtand, that one ſpecial end, which he propoſed to himſelf, in this undertak<g ref="char:EOLhyphen"/>in, was the ſtrengthning of their faith, <hi>v.</hi> 15. And not of theirs only, but al<g ref="char:EOLhyphen"/>ſo the begetting, increaſe, and perfect<g ref="char:EOLhyphen"/>ing of faith, in all the elect that remain<g ref="char:EOLhyphen"/>ed yet to be called in.</p>
+            <p>And to that purpoſe this being one of the greateſt and laſt miracles that ever he wrought, while he was converſant in the world, and alſo a moſt remarkable de<g ref="char:EOLhyphen"/>monſtration of his almighty power and Godhead. He hath cauſed it the more particularly to be recorded by the Evan<g ref="char:EOLhyphen"/>geliſt, with all its circumſtances. As the place where it was don, near <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> they that doubted needed not to go far to inquire out the truth of it; the time when, it was near the Paſſe<g ref="char:EOLhyphen"/>over, when the Jewes in great multituds from all parts reſorted to <hi>Jeruſalem:</hi>
+               <pb n="8" facs="tcp:35631:25"/>The means whereby he effected it were the ſame by which he ſtill upholds the world; even by the word of his power, The witneſſes in whoſe preſence he did it, they were many, and thoſe of all ſorts, men and women, friends and foes, ſome that believed, and ſome that were hardned, who went their wayes and accuſed him to the Phaiſees. <hi>ver.</hi> 46.</p>
+            <p>All which circumſtances are ſo exactly recorded, to the end, that they which were preſent might the better re<g ref="char:EOLhyphen"/>member it; and that they which were abſent might the eaſier believe it. <hi>Ut inde rem pene natura ſua incredibilem, dili<g ref="char:EOLhyphen"/>genti circumſtantiarum deſcriptione credi<g ref="char:EOLhyphen"/>bilem redderet.</hi> To the end that a mater which in its own nature was in a manner incredible, by an exact deſcription of all its circumſtances, might be rendred apt to be believ<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="4">4 We have alſo here at large ſet down, that conſolatory diſcourſe, which Jeſus Chriſt held with <hi>Martha,</hi> upon the occſiaon of the death of her brother. Wherein we may obſerve, the courſe which Chriſt takes, and the ſubject which he makes choiſe of, to comfort
+<pb n="9" facs="tcp:35631:25"/>and reſtore her grieved and afflicted ſpirit. And that is the doctrine of the reſurrection, and of life etern<g ref="char:EOLhyphen"/>all: wherein he eſpecially labour<g ref="char:EOLhyphen"/>eth to regulate and confirme her faith.</p>
+            <p>As to the main that there ſhould be a reſurrection, ſhe no way doubted, but concerning the power of Chriſt, and his intereſt in that work, ſhe did much need to be farther inſtructed. In the 21. <hi>v.</hi> She ſeemes too much to con<g ref="char:EOLhyphen"/>fine the power of Chriſt to his corporall preſence. <hi>Lord (ſaith ſhe) if thou hadſt been here, my brother had not died.</hi>
+            </p>
+            <p>As if according to his Deity, he were not every where preſent, or as if the diſtance of place could hinder his power from working of mi<g ref="char:EOLhyphen"/>racles.</p>
+            <p>In the 22. <hi>v.</hi> ſhe ſeemes to aſcribe, all the power that Chriſt had to do any thing for her, unto the prevail<g ref="char:EOLhyphen"/>ency of his prayers to God. Implying, that ſhe did not believe, that he was a<g ref="char:EOLhyphen"/>ble to do it of himſelf, when ſhe ſaith but, <hi>I</hi> know <hi>that even now whatſoever thou wilt aske of God, God will give it thee.</hi>
+            </p>
+            <pb n="10" facs="tcp:35631:26"/>
+            <p>And whereas <hi>v.</hi> 23. Chriſt had pro<g ref="char:EOLhyphen"/>miſed that her brother ſhould riſe again. <hi>v.</hi> the 24. She captiouſly diverts it, or turns it off, applying it to his riſing a<g ref="char:EOLhyphen"/>gain in the reſurrection of the laſt day. As if Chriſt could not make good his word till then, or as if the conſolation which ſhe might receive from the doc<g ref="char:EOLhyphen"/>trin of the laſt reſurrection were but of light concernment.</p>
+            <p>This weakneſſe or wavering of her faith, Chriſt corrects in the words of my text; where he informs her, that he is not only the miniſteriall, or inſtru<g ref="char:EOLhyphen"/>mentall cauſe, (as ſhe ſeemed to ſup<g ref="char:EOLhyphen"/>poſe) but the very author, and prin<g ref="char:EOLhyphen"/>cipall effioient cauſe of the reſurrection and the life.</p>
+            <q>I am the reſuerection and the life. &amp;c.</q>
+            <p>Which words I ſhall conſider,
+<list>
+                  <item>1 Abſolutly as they are in them<g ref="char:EOLhyphen"/>ſelves.</item>
+                  <item>2 Relatively with reſpect to the con<g ref="char:EOLhyphen"/>text.</item>
+               </list>
+            </p>
+            <p n="1">1 As they are conſidered abſolutly they contain two diſtinct affirmative propoſi<g ref="char:EOLhyphen"/>tions.</p>
+            <p>In the firſt of which, we have anaſ<g ref="char:EOLhyphen"/>ſertion,
+<pb n="11" facs="tcp:35631:26"/>of the power, and intereſt which Jeſus Chriſt hath, in the re<g ref="char:EOLhyphen"/>ſurrection and the life. Jeſus ſaid un<g ref="char:EOLhyphen"/>to her, <hi>I am the reſurection, and the life.</hi>
+            </p>
+            <p>In the ſecond, we have the ſpeci<g ref="char:EOLhyphen"/>fication of the proper, and adaequate ſubject, or materiall cauſe, of the re<g ref="char:EOLhyphen"/>ſurrection, and the life, and that is the believer, <hi>He that believeth in me, ſhall live.</hi>
+            </p>
+            <p>Whereunto he alſo adds an amplifica<g ref="char:EOLhyphen"/>tion of his power from the extent of it, and that both in reſpect of the quantity of the Subject, it reacheth to every one that believeth, be they never ſo many; He that believeth, it is indefinitly ex<g ref="char:EOLhyphen"/>preſſed in this verſe, but yet explained in the next verſe, to be underſtood as uni<g ref="char:EOLhyphen"/>verſall, where he ſaith, whoſoever belie<g ref="char:EOLhyphen"/>veth in me. And alſo in reſpect of the quality of the ſubject, whatſoever his condition may be: be it never ſo deſ<g ref="char:EOLhyphen"/>perate: Though he were dead, yet ſhall he live.</p>
+            <p n="2">2 As they are conſidered relatively.</p>
+            <list>
+               <item>1 They are inferred by way of argu<g ref="char:EOLhyphen"/>ment: for the correcting and curing of <hi>Martha</hi>'s ignorance, unbelief and Er<g ref="char:EOLhyphen"/>rour.</item>
+               <pb n="12" facs="tcp:35631:27"/>
+               <item>2 For the moderating and quieting of her paſſions now apt to be diſtempered by immoderate grief.</item>
+               <item>3 For the regulating, and improving of the preſent diſpenſation of provi<g ref="char:EOLhyphen"/>dence, in the death of her brother, and of her mourning upon that occa<g ref="char:EOLhyphen"/>ſion.</item>
+            </list>
+            <p>Before I come to the obſervations, I ſhall endeavour to unfold the terms.</p>
+            <p>And 1 in order to the opening of the firſt propoſiton, I ſhall ſhew what we are to underſtand.</p>
+            <list>
+               <item>1 By the reſurrection.</item>
+               <item>2 By the life.</item>
+               <item>3 How Chriſt is ſaid to be the reſurrecti<g ref="char:EOLhyphen"/>on and the life.</item>
+            </list>
+            <p n="2">2 In the opening of the ſecond propoſi<g ref="char:EOLhyphen"/>tion, I ſhall ſhew,
+<list>
+                  <item>1 Who it is that Chriſt meanes by theſe words <hi>he that believeth in me.</hi>
+                  </item>
+                  <item>2 How he that believeth in him ſhall live.</item>
+               </list>
+            </p>
+            <p n="3">3 In the opening the words whereby the power of Chriſt in raiſing of the dead, is amplified: I ſhall ſhew what is meant by theſe words, <hi>though he were dead yet ſhall be live.</hi>
+            </p>
+            <pb n="13" facs="tcp:35631:27"/>
+            <p>Firſt the reſurrection is ſomtimes taken in the Scripture figurativly,<note place="margin">
+                  <p>
+                     <hi>What is ment by re<g ref="char:EOLhyphen"/>ſurrection, Ro. 6.4, 5 Eph. 2.5, 6 &amp; 5.14. Coloſ. 3. 1 Rev. 20.6</hi> Rivet <hi>in Pſal. 16. p. 120 Rom. 6.4</hi> Reſurrectio prima eſt tranſitus a morte pec<g ref="char:EOLhyphen"/>cati ad vi<g ref="char:EOLhyphen"/>tam gratiae. <hi>Sixtus Senenſ.</hi> Biblioth. Sanct. <hi>l. 6.</hi> Annot. <hi>347.</hi> eſt ſpiritualis omnium ſalvandorum ex morte peccati reviviſcentia, <hi>Pareus</hi> in loc.</p>
+                  <p>Mortuorum reſurrectio dicitur. Mortuorum itaque vocabulo non eſt niſi quod. amiſit animam, de cujus facultate vivebat. Corpus eſt quod amittit animam, et amittendo fit mortuum: ita mortui vocabulum corpori competit. Porro ſi reſurrectio mortui eſt, mortuum autem non aliud eſt quam corpus, corporis erit reſurrectio. Reſurrectio est ejus quod cecidit. Tortullian adverſus Marcion. <hi>l. 5. p. 308. 309. n. 17.</hi> edit. Baſil. <hi>1562.</hi> Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o eſt, quae mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te ſubruitur, ut exinde a cadendo cadavere enuncielu. Reſurrectio caducae rei eſt (i.e.) carnis, Idem carnis reſur. de. <hi>l. p. 56, 57. n. 14.</hi>
+                  </p>
+               </note> for the raiſ<g ref="char:EOLhyphen"/>in again of the ſoul, from the death of ſin, to the life of grace; which is call<g ref="char:EOLhyphen"/>ed a paſſing from death to life, <hi>Joh.</hi> 5.24.</p>
+            <p>This is called the firſt reſurrection; which is nothing elſe but regeneration, the efficient cauſe where of is Jeſus Chriſt, and this is only of the elect.</p>
+            <p>And it is alſo taken properly for the raiſing up of the body, which was fallen by death.</p>
+            <p>And yet not of the body without the ſoul,<note place="margin">Anima eſt quae corpus <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> but as death doth diſſolve that union and conjunction which is between the ſoul and the body, ſo the reſurrec<g ref="char:EOLhyphen"/>tion ſhall reſtore it, whence it is alſo
+<pb n="14" facs="tcp:35631:28"/>called a regeneration <hi>Mat.</hi> 19.28.<note place="margin">Piſcat. in loc. Muſc. in Pſ. <hi>2.</hi> p. <hi>22.6.</hi>
+               </note> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cauſe as in the firſt birth, a man <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought forth conſiſting both of ſoul an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body, ſo in the reſurrection, (which is as another birth) he ſhall be raiſed u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an intire man conſiſting both of ſoul an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body.</p>
+            <p>Briefly, The reſurrection proper<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> taken, is a ſupernaturall act of God whereby the ſame ſoul is reunited <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame body; to the end that the ſame perſon (even the ſame intire man may be preſented in the day of judgment to receive the rewards or puniſhment of his forepaſſed life. <hi>Job.</hi> 19.26, 27<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2 <hi>Cor.</hi> 5.10.</p>
+            <p>This alſo is twofold, according to the differing condition of the perſons that are to be raiſed up. <hi>The hour is com<g ref="char:EOLhyphen"/>ming in the which all that are in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grave ſhall hear his voice, and ſha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> come forth, they that have done good unto the reſurrection of life, and they that have done evil, unto the reſurrection of damnation.</hi> Joh. 5.28, 29. By which i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appears that of the reſurrection, thu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> properly taken, Jeſus Chriſt is alſo the author and efficient.</p>
+            <p>Secondly by <hi>The life,</hi> we are to un<g ref="char:EOLhyphen"/>derſtand
+<pb n="15" facs="tcp:35631:28"/>principally life ſpirituall, and eternall, together with all the degrees of it from its beginning in grace to its perfecting in glory, in that it is ſuch a life, as is the fruit and conſequent of faith, as he immediatly expounds it, when he ſaith, <hi>He that believeth in me ſhall live, never die.</hi> This is indeed <hi>the life,</hi> by way of excellency, whereof Chriſt alone is the fountain and ſpring: when he is called <hi>the Prince of life;</hi>
+               <note place="margin">Act. 3.15.</note> he that hath life in himſelf, and from whom it is derived unto others, who by faith draw it from him as water from a fountain. According to that of <hi>Paul,</hi> Gal. 2.20. <hi>I live, yet not I, but Christ liveth in me, and the life which I now live in the fleſh, I live by the faith of the ſon of God.</hi>
+            </p>
+            <p>All mankind by nature are in an eſtate of death, and no one of them is put into an eſtate of life,<note place="margin">Calvin.</note> but he that is riſen from the dead: none can riſe from the dead but by him who is the reſurrection, none can live but by him who is the life. <hi>He that hath the ſon hath life, and he that hath not the ſon hath not life.</hi> 1 Joh. 5.12. In a word the life here ſpoken of, is chiefly life ſpiritual and eternal, begun in grace, and to be perfected in glory:
+<pb n="16" facs="tcp:35631:29"/>unto which life, there is no true way, but by him <hi>who is the way, the truth, and the life, Joh.</hi> 14.6.</p>
+            <p>And thus you have heard what we are to underſtand by the reſurre<g ref="char:EOLhyphen"/>ction, and what by the life. In the third place, <hi>I</hi> am to ſhew, how <hi>Chriſt is the reſurrection, and the life.</hi> And I find it expreſſed by a learned author ſomewhat to this effect.</p>
+            <p>Chriſt,<note place="margin">Lanc in. coloſ. <hi>3.</hi>
+               </note> as God, is the reſurection and the life properly and effici<g ref="char:EOLhyphen"/>ently; As man, and as he hath died for our offences, and was rai<g ref="char:EOLhyphen"/>ſed again for our juſtification, ſo he is the reſurrection and the life materially:<note place="margin">Cartw. Harm. in loc.</note> as mediator, and ſo he is the reſurrection and the life formally even in and by whom they riſe and live: As he is the head of the body (the Church) ſo he is the life of the members, by which they are raiſed from the dead, and are alive unto God, and do live the life of God, that is the life of grace here, and ſhall at laſt with him alſo live the life of glory. <hi>When Chriſt who is our life ſhall ap<g ref="char:EOLhyphen"/>pear, then ſhall ye alſo appear with
+<pb n="17" facs="tcp:35631:29"/>him in glory,</hi> Coloſ. 3.4.</p>
+            <p>To ſpeake a little more particu<g ref="char:EOLhyphen"/>larly to the words. Whereas he ſaith <hi>I am the reſurrection, and the life. Singula verba emphatica Sunt.</hi> Every word hath its force.</p>
+            <p>
+               <hi>I]</hi> and not another, nor by prayer to another, nor by the power of another; but of my ſelf, and by mine own power. <hi>I am]</hi> not I have been, or I ſhall be, but I am: This is a manner of ſpeakeing which is moſt proper unto God, who is ever the ſame, and by thus ſpeaking, he would have us to know, that it is alwayes in his power to do it when he will, by whom he will, and as he pleaſeth. For as the father raiſeth up the dead, and quickneth them: even ſo the ſon quickneth whom he will, <hi>Joh.</hi> 5.21.</p>
+            <p>He ſpeakes in the preſent tenſe, time paſt is not, and time to come is not yet, <hi>Tempus praeſens eſt tantum tem<g ref="char:EOLhyphen"/>pus.</hi> Time hath no being but at preſent.</p>
+            <p>
+               <hi>I am the reſurrection]</hi> more
+<pb n="18" facs="tcp:35631:30"/>
+               <hi>Hebraeorum,</hi> aftes the manner of the <hi>Hebrews;</hi> He uſeth the abſtract for the concrete, but in an active ſenſe; As when the Apoſtle ſaith, 1 <hi>Cor.</hi> 1.30. <hi>He is made unto us wiſdom, and righteouſneſſe, and ſanctification, and redemption;</hi> his meaning is, that Jeſus Chriſt is he that doth make us wiſe, and righteous, and holy, <hi>&amp;c.</hi> So here when Chriſt ſaith, <hi>I am the reſurrection,</hi> it is as if he had ſaid, I am he that doth raiſe the dead.</p>
+            <p>
+               <hi>Martha</hi> had ſaid, concerning her bro<g ref="char:EOLhyphen"/>ther, I know that he ſhall riſe a<g ref="char:EOLhyphen"/>gain in the reſurrection at the laſt day. And Chriſt replyeth in effect (Thou mayeſt as well believe that he may be raiſed now;<note place="margin">Per quem tunc reſur<g ref="char:EOLhyphen"/>get po teſt &amp; modo, quia ego ſum reſur<g ref="char:EOLhyphen"/>rectio. Auguſt.</note> ſince he is preſent by whom he ſhall be raiſed then, for (ſaith he) <hi>I am the reſurrec<g ref="char:EOLhyphen"/>tion,</hi> and I can as eaſily do it now as then.</p>
+            <p>
+               <hi>(I am the reſurrection and the life)</hi> firſt the <hi>reſurrection</hi> and then the <hi>life; quia prior est restitutio a morte in vi<g ref="char:EOLhyphen"/>tam quam vitae ſtatus,</hi>
+               <note place="margin">Calvin.</note> the reſtoring from death to life is before the ſtate of life. The reſurrection from the death of ſin, muſt go before the life
+<pb n="19" facs="tcp:35631:30"/>of grace, and the reſurrection both from death temporall, and death ſpirituall muſt go before a full enjoyment of the life of glory.</p>
+            <p>This may ſuffice for the opening of the terms of the firſt pro<g ref="char:EOLhyphen"/>poſition. I come now unto the Second.</p>
+            <p>
+               <hi>He that believeth in me ſhall live.</hi> In which propoſition we have the proper ſubject of the reſurrection and the life, <hi>He that believeth,</hi> the act that qualifieth and dipoſeth that ſubject, and that is faith. The object that gives life and virtue to that act, and that is Chriſt, he that believ<g ref="char:EOLhyphen"/>eth in me. And laſtly the grace that is promiſed to reward, and crown it, and that is life. <hi>He that believeth in me ſhall live.</hi>
+            </p>
+            <p>The ſubject of the reſurrection in generall is that which is fallen (as hath been ſaid,) The ſubject of the reſurrection at the day of judgement, are the dead bodies univerſally both of good and bad. The ſubject of the reſurrection, and the life or from the death of ſin, to life ſpirituall, and eternall, are all and only the elect,
+<pb n="20" facs="tcp:35631:31"/>which the father hath given unto Chriſt; for all they, and only they do come unto him by faith. <hi>Joh.</hi> 6.35, 37, 39, 40, 44, 47, 53, 54. All and only they, do performe that act, whereby they be<g ref="char:EOLhyphen"/>come fitly qualified, and diſpoſed, to par<g ref="char:EOLhyphen"/>take of ſuch a grace; And that not only in generall way, as they are a body: but every one for himſelf: every one that is thus to be raiſed by Chriſt, is to believe for himſelf. <hi>The juſt ſhall live by faith.</hi> Therefore he ſaith, <hi>He that believeth in me;</hi> And yet he ſpakes indefinitly, ſo that it is all one as if he had ſaid <hi>every one that believeth in me,</hi> as <hi>Joh.</hi> 6.40. <hi>or whoſoever believeth in me,</hi> as in the next verſe after the text. Which notes alſo the object of faith, Jeſus Chriſt. <hi>And to receive and reſt upon him, as the Christ, the ſon of God, as the only author of life and Salvation is to be<g ref="char:EOLhyphen"/>live in him,</hi> as appears by <hi>Martha</hi> in her anſwer <hi>v.</hi> 27. which is alſo the ſame with <hi>Peters, Mat.</hi> 16.16.</p>
+            <p>And <hi>He that beliveth in Chriſt, is every one that by a true faith doth lay hold, and reſt, upon Chriſt for life and ſalvation.</hi>
+            </p>
+            <p>And he that thus believeth in him
+<pb n="21" facs="tcp:35631:31"/>ſhall live, that is, ſhall live ſpiritually and eternally, He ſhall forthwith re<g ref="char:EOLhyphen"/>ceive that life which ſhall never have an end. He ſhall never die, that is ſpiritually and eternally.</p>
+            <p>This alſo may ſerve for the unfold<g ref="char:EOLhyphen"/>ing of the terms of the ſecond propo<g ref="char:EOLhyphen"/>ſition. I come in the third place to the amplification of the power of Chriſt in theſe words. <hi>Though he were dead yet ſhall he live.</hi> Where<g ref="char:EOLhyphen"/>in he ſets forth the exceeding greatneſſe of his power in regard of the extent of it, and that,</p>
+            <p n="1">1 In reſpect of the quantity or num<g ref="char:EOLhyphen"/>ber of thoſe that are to be raiſed up, be their multitude never ſo great, how<g ref="char:EOLhyphen"/>ſoever diſperſed, of whatſoever na<g ref="char:EOLhyphen"/>tion, kinred or tribe; whether Jews, or Gentiles; Barbarians, Scythians, bond or free.</p>
+            <p n="2">2 In reſpect of their quality, be their condition never ſo deſperate; yet he that believeth, whoſoever belie<g ref="char:EOLhyphen"/>veth, every one that believeth, <hi>Though he were dead, yet ſhall he live.</hi>
+            </p>
+            <p>That is (ſay ſome) Though he were dead in the body,<note place="margin">Piſcat. in loc.</note> yet ſhall he live
+<pb n="22" facs="tcp:35631:32"/>again the body unto life eternall,<note place="margin">Menoch. in loc.</note> as he that believeth not ſhall riſe again but unto death eternall.</p>
+            <p>Or though he were dead,<note place="margin">Cartw. Metaph. in loc.</note> yet ſeing <hi>I am the reſurrection and the life,</hi> if it be for the glory of God, I can and will (as often as I pleaſe) reſtore him unto life again: nether need I ſtay for the laſt day.</p>
+            <p>There are others that underſtand it eſpecially of the ſpiritual death of the ſoul,<note place="margin">Calvin. Maldonat.</note> or of the ſouls being dead in ſin, and by the power of Chriſt to be quickned to a new and ſpirituall life; yet not without reſpect to the body, which though dead naturally, yet by his power ſhould be raiſed up again.</p>
+            <p>But which way ſoever of theſe two the words are to be underſtood, there may ariſe a doubt.</p>
+            <p n="1">1 If Chriſt ſpeakes of the death of the body, how doth he require faith of the dead? can the dead believe? The dead praiſe not the Lord, neither any that go down into ſilence. <hi>Pſal.</hi> 115.17. And as they can not praiſe him, ſo neither can they believe in him. In death there is no re<g ref="char:EOLhyphen"/>membrance of him. <hi>Pſal.</hi> 6.5. <hi>They
+<pb n="23" facs="tcp:35631:32"/>that goe downe into the pit can<g ref="char:EOLhyphen"/>not hope for thy truth,</hi> Iſaiah 38.18.</p>
+            <p n="2">2 If he ſpeake of the ſpiritual death of the ſoul by ſin, and of the raiſing up of ſuch to the life of grace, what is this to the buſineſſe in hand. The queſtion is, of reſtoring life to <hi>La<g ref="char:EOLhyphen"/>zarus</hi> his dead body, and he ſpeaks of giving life to the ſoul that is dead in ſin.</p>
+            <p>For anſwer unto theſe, there is no doubt but that Chriſt's anſwer to <hi>Martha</hi> is both proper and pertinent, though every one may not ſo readily appre<g ref="char:EOLhyphen"/>hend it.</p>
+            <p>But to the doubts themſelves. To the firſt we may ſay that he doth not require faith of the dead <hi>ſenſu compoſito,</hi> that is, that thoſe that are dead in body ſhould believe; but of the living, as if he ſhould have ſaid, <hi>He that while he liveth doth believe in me, though he were even now dead, yet ſhall he be raiſed up again, and live in the body, and that eternally;</hi> and thus he ſeemes to explain himſelf in the very next words, where he ſaith, <hi>whoſoever liveth and believeth in me ſhall never die.</hi>
+            </p>
+            <p>Again when he ſaith, <hi>though he were
+<pb n="24" facs="tcp:35631:33"/>dead yet ſhall he live,</hi> it is to note, either his omnipotency, in that he can and will give life unto him, and cauſe even the dead to live. Or that although he be dead in reſpect of us, yet he is ſtill alive in reſpect of Chriſt; in whom all believers live, and ſhall never die. And thus he is to be underſtood when he ſaith of <hi>Lazarus, his ſickneſſe that was not unto death,</hi>
+               <note place="margin">v. <hi>4.</hi>
+               </note> and yet afterwards he ſaith, <hi>Lazarus is dead. His ſickneſſe was not unto death,</hi>
+               <note place="margin">v. <hi>24.</hi>
+               </note> in reſpect of Chriſt, who could and would raiſe him up again:<note place="margin">Sharpius Symphonia. loc. <hi>176.</hi>
+               </note> yet he was dead in reſpect of men by whom he could not be numbred amongſt the living.</p>
+            <p>As <hi>Paul</hi> ſaid of <hi>Eutichus</hi> when he was dead <hi>Act.</hi> 20.9, 10. <hi>So may it be ſaid of every believer, even when he is dead, his life is in him. His grave is but his bed,</hi>
+               <note place="margin">In mortis umbrajacet</note> Jſa. 57.2. <hi>and his death his ſleep,</hi> as Chriſt ſaid of <hi>Lazarus when he was dead, our friend</hi> Lazarus <hi>ſleepeth,</hi> v. 11. <hi>He ſleeps in Jeſus,</hi>
+               <note place="margin">1 Cor. 15.18</note> 1 Theſ. 4.14. <hi>He is still united unto Chriſt, he is a mem<g ref="char:EOLhyphen"/>ber of that body which lives eternally.</hi>
+               <note place="margin">Calvin.</note> Death it ſelf unto belivers is a deliver<g ref="char:EOLhyphen"/>ance from death.</p>
+            <p>And that of the Jews may be truly applyed unto them, their grave is not
+<pb n="25" facs="tcp:35631:33"/>the houſe of the dead, but <hi>Both Chajim domus viventium</hi> the houſe of the living.</p>
+            <p>To the ſecond, though it ſhould be underſtood of a ſpirituall death, yet it is very ſuitable to the matter in hand. And it is a forceable argu<g ref="char:EOLhyphen"/>ment to confirm the faith of <hi>Martha</hi> in this, that Jeſus Chriſt was able to raiſe her brother again. He that is able to raiſe the ſoul from the death of ſin, and to cauſe it to live the life of grace, can alſo raiſe the body from death tem<g ref="char:EOLhyphen"/>porall unto life eternall in the laſt day, and he that can raiſe the bodies of all the elect unto life eternall in the laſt day, can raiſe the body of one man unto life temporall now.</p>
+            <p>Furthermore whereas he was ſought unto for reſtoring of life to the body. He anſwers that he was both able and ready to give more then they deſired, even life not only to the body but alſo to the ſoul. Thereby taking an occaſion from her inſiſting ſo much upon the life of the body to raiſe up her faith, and to quicken her deſires after the life of the ſoul, which is of more neceſſary &amp; worthy concern<g ref="char:EOLhyphen"/>ment, eſpecially ſeing ſhe was now con<g ref="char:EOLhyphen"/>verſing with one who had both theſe in his power to conferre.</p>
+            <pb n="26" facs="tcp:35631:34"/>
+            <p>And this was uſuall with Chriſt to take occaſion from mens diſcourſing of outward, and corporall things to lead them on to ſpirituall things, and from temporall to eternall, as may be ſeen, <hi>Johnn</hi> 4.13. <hi>&amp;c. Joh.</hi> 6.26, 27.</p>
+            <p>And this ariſeth from that ſpeciall reſpect which Chriſt bears unto the ſouls of his elect. Whence it is that he makes it his firſt care, uſeth more words, and takes more paines, to raiſe up <hi>Martha</hi>'s dead faith, then to raiſe up her brothers dead body. And therefore he ſeemes to turn her off from the diſcourſe of raiſing of her brother, upon which ſhe was ſo paſſionatly ſet, and leades her into a diſcourſe of ſpiri<g ref="char:EOLhyphen"/>tual life. Although it be not to be doubt<g ref="char:EOLhyphen"/>ed but that he comprehends under theſe expreſſions, a double diſpenſation of grace; <hi>viz.</hi> that he would raiſe the ſoul from a ſpiritual death, to a ſpiri<g ref="char:EOLhyphen"/>tuall life; and the body from death temporall to life eternall, a taſte whereof he was now about to give in raiſing <hi>Lazarus</hi> from the dead.</p>
+            <p>I ſhall give you the Sum of all that hath been ſaid by way of explication
+<pb n="27" facs="tcp:35631:34"/>in this ſhort paraphraſe. And it is as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Chriſt ſhould have ſaid, <hi>Martha</hi> thou implieſt by thy diſcourſe, that thou haſt but low thoughts of me and my power: and that thou imagineſt me to be only the miniſter or diſpenſer of the reſurrection; that is ſuch a one as only by prayer can obtain from another the power of raiſing the dead. Thou lookeſt upon me only as a man that is a prophet, and that by ſome more then ordinary grace; and favour, can prevail with God. But thou muſt know, and it is thy duty to believe; that <hi>I am</hi> God as well as man, and therefore that <hi>I am</hi> he, who hath that power, in and of my ſelf, by which <hi>I am</hi> able to raiſe and do raiſe the dead to life, and that <hi>I am</hi> the very root and fountain of life by whom the dead do riſe, and the living do live, whether naturally or ſpiritually, tempo<g ref="char:EOLhyphen"/>rally or eternally. And alſo that he, whoſoever he be, that by a true and live<g ref="char:EOLhyphen"/>ly faith doth lay hold, and rely upon me, as ſuch, whatſoever his condition may be, yea though he were dead, yet ſhall he live: though he were dead in reſpect of the body, <hi>yet by me ſhall he live again <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the body.</hi> Though he were dead in ſin (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s every one is before he believeth)
+<pb n="28" facs="tcp:35631:35"/>yet by his faith in me, ſhall he be raiſed up to live, the life both of grace and glory.</p>
+            <p>I come now to the obſervations.</p>
+            <p>And firſt from the words abſolutly conſidred as they propoſe the author &amp; efficient cauſe of the reſurrection &amp; the life, and as they contain an aſſertion of that abſolute and independent power, and intereſt which Jeſus Chriſt hath in the reſurrection and the life. We may obſerve,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>1</label> That Jeſus Chriſt is the author of the reſurrection and the life. Or That Jeſus Chriſt is the author and efficient cauſe, both of the reſurrection of the body, and of the life both ſpirituall and eter<g ref="char:EOLhyphen"/>nall.</p>
+            <p n="2">2 From the ſubject of the reſurrec<g ref="char:EOLhyphen"/>tion and the life, together with the qualification or limitation thereof, or the perſon to whom only Jeſus Chriſt is the reſurrection and the life; held forth in the ſecond propoſition, in theſe words <hi>He that believeth in him.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label> We may obſerve that</p>
+            <p>
+               <hi>Such as do ſincerly believe in Christ,</hi> are the only proper and adequare ſub<g ref="char:EOLhyphen"/>ject
+<pb n="29" facs="tcp:35631:35"/>of the reſurrection and the life. Or</p>
+            <p>Such as ſincerly believe in Chriſt are they, and they only, who by the power of Chriſt are, or ſhall be rai<g ref="char:EOLhyphen"/>ſed from death to life ſpirituall and eternall.</p>
+            <p n="3">3 From the amplification of Chriſts power from the extent of it. He can and will raiſe them be their condition never ſo deſperate. Though he were dead yet ſhall he live.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>3</label> The power of raiſing of believers un<g ref="char:EOLhyphen"/>to life ſpirituall and eternal in reſpect of all the degrees of it is ſo fully and abſo<g ref="char:EOLhyphen"/>lutly in the hands of Chriſt, that nothing can hinder him from raiſing of them when he will.</p>
+            <p>Secondly from the words relatively conſidered. 1. As they contain a do<g ref="char:EOLhyphen"/>ctrin delivered and aſſerted by Jeſus Chriſt, for the correcting and curing of <hi>Martha's</hi> ignorance and errour, concerning his almighty power and god<g ref="char:EOLhyphen"/>head.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>4</label> To be rightly informed in the doctrin of the power and intereſt, which Jeſus Chriſt hath in the reſurection, and the
+<pb n="30" facs="tcp:35631:36"/>life, is an eſpeciall meanes to cure the ignorance, and to prevent the errour, we are apt to be corrupted withall, concerning the power and Godhead of Chriſt.</p>
+            <p n="2">2 Whereas Jeſus Chriſt for the moderat<g ref="char:EOLhyphen"/>ing, quieting &amp; comforting of <hi>Martha's</hi> ſpirit now apt to exceed in mourning and grieving, for the death of her brother, doth eſpecially make choiſe of, and inſiſt upon the doctrine of the reſurrection, &amp; the informing her in, and affecting her with, his abſolute power in it, and over it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>5</label> Rightly to be informed in, and to be affected with, the doctrin of the reſur<g ref="char:EOLhyphen"/>rection and the life, and of Chriſts power in it; is of eſpeciall uſe, to comfort the ſorrowfull, and mourn<g ref="char:EOLhyphen"/>ing friends of ſuch as die in the faith.</p>
+            <p n="3">3 Whereas Jeſus Chriſt doth take oc<g ref="char:EOLhyphen"/>caſion to moderate, and improve <hi>Mar<g ref="char:EOLhyphen"/>tha's</hi> mourning over her brothers dead body, and her deſire of having it raiſed up again to life temporall; to minde her of the true and effectuall meanes of quickning and raiſing up her own dead ſoul, to life ſpirituall, and eternall.</p>
+            <pb n="31" facs="tcp:35631:36"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>6</label> When any are apt to exceed in mour<g ref="char:EOLhyphen"/>ning over their friends dead body; wiſh<g ref="char:EOLhyphen"/>ing it might be reſtored again to life temporall: It is ſeaſonable to mind them of the moſt effectuall meanes of raiſing up their own dead ſouls to life ſpiritual and eternal.</p>
+            <p>The words of the text are few, but fruitfull. I may compare them to thoſe few loaves and fiſhes, which in the hands of the diſciples, ſeemed unto them by much too little to ſatisfy ſo many thouſand hungry ſtomacks, as then ſtood in need of refreſhment. But being bleſſ<g ref="char:EOLhyphen"/>ed and broken by Chriſt, they multiply ſo exceedingly, that they become enough for all and to ſpare.</p>
+            <p>In like maner theſe words of Chriſt lookt upon with a carnal eie, or as only in the hands of a man, what are they a<g ref="char:EOLhyphen"/>mong ſo many that every one ſhould have his portion. But if Chriſt by his ſpirit do bleſſe and diſpenſe them in the way of his ordinance they will multiply and be enough for all. Yea ſuch is the nature of this food, that every one may carry away the whole, and yet never a one have ever the leſſe.</p>
+            <pb n="32" facs="tcp:35631:37"/>
+            <p>To each of the obſervations I ſhall ſpeake particularly, but very briefly. The firſt is this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>1</label> 
+               <hi>Jeſus Chriſt is the author of the reſur<g ref="char:EOLhyphen"/>rection, and the life.</hi> Or <hi>Jeſus Chriſt is the author and efficient cauſe, both of the reſurrection of the body, and of the life both ſpirituall and eternall.</hi>
+            </p>
+            <p n="1">1 That he is ſo is manifeſt in the text; and therefore needs not any farther proof: neither ſhall I adde any more but only this, that we have Jeſus Chriſt aſſerting his power, and efficiency, in the reſurrection, four ſeveral times in one and the ſame chapter. <hi>viz. Joh.</hi> 6.39, 40, 44, 54. and in the life both ſpiritu<g ref="char:EOLhyphen"/>all and eternall no leſſe <hi>John</hi> 5.21, 22, 24, 25, 26.</p>
+            <p n="2">2 How he is ſo I ſhall ſhew in theſe particulars.</p>
+            <p n="1">1 Jeſus Chriſt is the author and effi<g ref="char:EOLhyphen"/>cient cauſe of the reſurrection and the life, as he is God, not excluding the father or the ſpirit. For it is ſaid that the father raiſeth up the dead and quick<g ref="char:EOLhyphen"/>neth them. <hi>Joh.</hi> 5.21. 1 <hi>Cor.</hi> 6.14. And
+<pb n="33" facs="tcp:35631:37"/>alſo that the ſpirit raiſeth and quickneth the dead <hi>Rom.</hi> 8.11.</p>
+            <p>The father by the ſon, and through the ſpirit, 2 <hi>Cor.</hi> 4.14. <hi>Opera Trinitatis, ad extra, ſunt indiviſa.</hi>
+            </p>
+            <p>As he is the judge of the world, ſo he is the reſurrection, both of the elect, and reprobate, <hi>Joh.</hi> 5.27, 28. Even as the opening of the priſon dores, and the bringing forth of the priſoners, is by the power and authority of the Judge. So the opening of the graves, and the raiſing of the dead is by the power and authority of Jeſus Chriſt.</p>
+            <p n="3">3 As mediatour, and ſo he is the author of the reſurrection and the life, of believers only. And that</p>
+            <p n="1">1 By his merit, 1 <hi>Cor.</hi> 15, 21, 22. ſince by man came death, that is by the merit of mans ſin, even by the ſin of the firſt <hi>Adam.</hi> By man came alſo the reſurrection of the dead, that is by the merit of the righte<g ref="char:EOLhyphen"/>ouſneſſe of Chriſt who is the ſecond <hi>Adam.</hi>
+            </p>
+            <p n="2">2 By his efficacy, power and virtue, whereby he quickneth whom he will. He ſhall change our vile body,<note place="margin">
+                  <hi>Joh.</hi> 5.21</note> that it may be faſhioned like unto his glorious
+<pb n="34" facs="tcp:35631:38"/>body, according to the working whereby he is able to ſubdue all things to himſelf, <hi>Phil.</hi> 3.21.</p>
+            <p n="3">3 By inchoation, Chriſt is riſen from the dead and become the firſt fruits of them that ſlept 1 <hi>Cor.</hi> 15.20. that is of believers. Chriſt is to believers as the firſts fruit to all the reſt of the fruits; be and therefore if all the fruits ſanc<g ref="char:EOLhyphen"/>tified, through the Sanctification of the firſt fruits, then ſo ſhall all belie<g ref="char:EOLhyphen"/>vers be raiſed by the reſurrection of Chriſt.</p>
+            <p>The uſe of this point, is to confirm our faith, in the doctrin of the Godhead of Chriſt. None can raiſe the dead of himſelf, and in his own name, and by his own power, but God only. And hence by his raiſing up of himſelf, he is ſaid to have been declared, to be the ſon of God with power, <hi>Rom.</hi> 1.4. And this was one of thoſe ſignes by which he evidenced himſelf to be the Chriſt to <hi>John</hi>'s diſciples, <hi>Math.</hi> 11.5. in that by him the dead were raiſed up.</p>
+            <p>And as the reſurrection of the dead, is one of thoſe principles, or funda<g ref="char:EOLhyphen"/>mentalls of the doctrine of Chriſt, which
+<pb n="35" facs="tcp:35631:38"/>are moſt neceſſary for all Chriſtians to know and believe. <hi>Hebr.</hi> 6.1, 2. So to know and believe that Chriſt is the au<g ref="char:EOLhyphen"/>thor or principall efficient cauſe of it, is no leſſe the duty of all that profeſſe to believe Jeſus Chriſt to be the ſon of God? which is another article of our faith. And therefore to the end that Jeſus Chriſt might fully confirm <hi>Martha</hi> in the faith of his Godhead; he tho<g ref="char:EOLhyphen"/>roughly inſtructs her concerning his power and efficency in the reſurrection: which if ſhe ſhould receive, ſhe muſt alſo neceſſarily believe him to be God.</p>
+            <p>And accordingly it followes, when Chriſt puts her to the queſtion <hi>ver.</hi> 26. <hi>Believeſt thou this?</hi> ſhe readily an<g ref="char:EOLhyphen"/>ſwers, <hi>ver.</hi> 27. <hi>Yea Lord I believe that thou art the Chriſt, the ſon of God.</hi>
+            </p>
+            <p>The truth is, the doctrin of the re<g ref="char:EOLhyphen"/>ſurrection is a difficult point. <hi>Durius creditur reſurrectio carnis, quam una di<g ref="char:EOLhyphen"/>vinitas</hi> ſaith <hi>Tertulians.</hi> That is, the re<g ref="char:EOLhyphen"/>ction of the body, is harder to be belie<g ref="char:EOLhyphen"/>ved, thence it is (ſaith he) that here<g ref="char:EOLhyphen"/>ticks commonly begin,<note place="margin">
+                  <hi>l.</hi> de reſur<g ref="char:EOLhyphen"/>rectione carnis. <hi>p. 46. n. 2.</hi>
+               </note> with the re<g ref="char:EOLhyphen"/>ſurrection of the body, and thence (having ſhaken the hope of the reſur<g ref="char:EOLhyphen"/>rection)
+<pb n="36" facs="tcp:35631:39"/>they aſcend at length to the queſtioning of the Deity. Which is the reaſon he gives for his dealing firſt with that ſubject. That ſo the ſaithfull being Sufficiently confirmed in this, they might be the better grounded in all the reſt. As if they ſhould be weakned in this, they would be doubtfull in all the reſt. <hi>Fiducia chriſtianorum,</hi>
+               <note place="margin">
+                  <hi>ibid.</hi> p. 45.</note> 
+               <hi>reſurrectio mortuorum,</hi> ſaith the ſame Author, The hope of a chriſtian, is the reſurrection of the dead. <hi>Tolle ſpem reſurrectionis &amp; reſoluta eſt obſervantia omnis pietatis.</hi>
+               <note place="margin">Chriſoſtom. <hi>in</hi> Mat. <hi>22.</hi>
+               </note> Take away the hope of the reſurrection, and all eſteem of re<g ref="char:EOLhyphen"/>ligion is vain. If there be no reſur<g ref="char:EOLhyphen"/>rection of the dead (ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, 1 <hi>Cor.</hi> 15.) then is Chriſt not riſen &amp; if Chriſt be not riſen, then is our pre<g ref="char:EOLhyphen"/>aching vain, and your faith is alſo vain, and ye are yet in your ſins, <hi>ver.</hi> 13. <hi>&amp;c.</hi> Then they alſo which are fallen a ſleep in Chriſt are periſhed. If in this life only we have hope in Chriſt, we are of all men moſt miſerable, <hi>ver.</hi> 18.19.</p>
+            <p>Whereas on the contrary if we be eſtabliſhed in theſe points; That there ſhall be a reſurrection; And that Chriſt is the Author and ef<g ref="char:EOLhyphen"/>ficient of it, then it followes, That
+<pb n="37" facs="tcp:35631:39"/>Jeſus is the Chriſt the ſon of God which ſhould come into the world. <hi>And that whoſoever believeth in him ſhall never die.</hi> As will farther appear in the handling of the ſecond doctrinall obſervation, to which now I come, and it is this.</p>
+            <p>
+               <hi>Such as do ſincerly believe in Chriſt, are the only proper and adequate Subject of the reſurrection and the life.</hi> Or</p>
+            <p>Such as do ſincerely believe in Chriſt, are they and they only who by the power of Chriſt, are or ſhall be raiſed from death to life ſpiritual and etern<g ref="char:EOLhyphen"/>all. I do not ſay that believers are the only adequate ſubject of the reſurrection,<note place="margin">
+                  <hi>Dan.</hi> 12.2, 13</note> as if none ſhould riſe but they; The wicked ſhall riſe alſo, but to the re<g ref="char:EOLhyphen"/>ſurrection of condemnation. But I ſay that belivers are the only proper and ad<g ref="char:EOLhyphen"/>equate ſubject of the reſurrection and the life, or of the reſurrection to life ſpirituall and eternall. <hi>He that heareth my word, and believeth on him that ſent me, hath everlasting life. The hour is comming, in the which all that are in the graves ſhall hear the voice of the ſon of man, &amp; ſhall come forth, they that have done good, unto the reſurrection of life,</hi> Joh. 5.24 28, 29. And <hi>this is the will of him that
+<pb n="38" facs="tcp:35631:40"/>ſent me, that every one which ſeeth the ſon, and believeth on him, may have everlaſting life, and I will raiſe him up at the laſt day,</hi> Joh 6.40. <hi>They and on<g ref="char:EOLhyphen"/>ly they ſhall riſe and die no more, whoſo<g ref="char:EOLhyphen"/>ever believeth in me ſhall never die.</hi> Joh. 11.26. <hi>Only ſuch as have a part in the firſt reſurrection, are they over whom the ſecond death ſhall have no power,</hi> Rev. 20.6.</p>
+            <p>Becauſe they only have received that immortall ſeed, and principle of ſpiritu<g ref="char:EOLhyphen"/>all and eternall life. <hi>He that believeth on him that ſent me, hath ever laſting life, and ſhall not come into condemntion, but is paſſed from death to life, Joh.</hi> 5.24.</p>
+            <p n="2">2 Becauſe of their near relation to God. They that ſhall be accounted worthy to obtain that world, and the reſurrection from the dead cannot die any more, for they are equall unto the Angels, and are the children of God, being the children of the reſurrection, <hi>Luk.</hi> 20.35, 36.</p>
+            <p n="3">3 Becauſe of their near relation unto Jeſus Chriſt, <hi>they are members of his body,</hi>
+               <pb n="39" facs="tcp:35631:40"/>being ingrafted into him by faith, and therefore they ſhall riſe with him, <hi>Jſa.</hi> 26.19. With my body ſhall they ariſe. Whence they are ſaid to be begotten again unto a lively hope, by the reſur<g ref="char:EOLhyphen"/>rection of Jeſus Chriſt from the dead, 1 <hi>Pet.</hi> 1.3. And if we believe (ſaith the) (Apoſtle) that Jeſus died and roſe again, even ſo them alſo which ſleep in Jeſus will God bring with him. 1 <hi>Theſ.</hi> 4.14. They only are given of God the father unto Jeſus Chriſt. And this (ſaith he) is the will of the father which ſent me; <hi>that of all which he hath given me, I ſhould loſe nothing, but ſhould raiſe it up again at the last day.</hi> Joh. 6.39. Which he will do accordingly, <hi>v.</hi> 40, 44.</p>
+            <p n="4">4 They only have attained to that grace which ſets all other means on worke, and renders them effectuall, and that is faith, which is that grace which is the reſurrection of the ſoul, and in a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort enlivens the ſoul, gives life unto the life. Though not of it ſelf but by vertue of its object which is Jeſus Chriſt; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith is the veſſel by which we draw water but of the wells of ſalvation, the conduit pipe by which we conveigh home to out own ſouls, that life which is in Chriſt.</p>
+            <pb n="40" facs="tcp:35631:41"/>
+            <p>This point is of uſe to informe us,</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> 1 Who they are alone, to whom Je<g ref="char:EOLhyphen"/>ſus Chriſt is the reſurrection and life; and they are only believers.</p>
+            <p n="2">2 What it is alone that makes any one capable of an intereſt in the reſurrection, and the life, by Chriſt, and that is faith.</p>
+            <p n="3">3 What we muſt be, if we will have Chriſt to be ſuch (even the reſurrecti<g ref="char:EOLhyphen"/>on and the life) to us, we muſt be believers. We muſt be ingrafted into Chriſt by faith, we muſt be mem<g ref="char:EOLhyphen"/>bers of his body if we will be partakers of of his reſurrection. We muſt be in cove<g ref="char:EOLhyphen"/>nant with him, and to that end we muſt by true and unfained repentance breake off, and diſſanull our cove<g ref="char:EOLhyphen"/>nant with ſin, and that with Loath<g ref="char:EOLhyphen"/>ing and abhorrency, as that which will infallibly hinder, and diſſolve all uni<g ref="char:EOLhyphen"/>on, and communion between Chriſt and our ſouls. We muſt alſo by a ready, chearfull and ſincere obedience, ſerve and glorify God in whom we profeſſe to believe. If we be believers indeed, we muſt evidence it, by our living the life of faith, even by adding works to our faith,<note place="margin">
+                  <hi>Gal.</hi> 5.6. <hi>Jam.</hi> 2.17 &amp;c.</note> it muſt be a faith working by love. <hi>Faith without workes is dead, ſhew me thy faith by thy works.</hi>
+            </p>
+            <pb n="41" facs="tcp:35631:41"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> This is a word of terror unto unbelie<g ref="char:EOLhyphen"/>vers. In aſmuch as they may know from hence, that they have neither part nor lot in this matter.<note place="margin">Non dicitur de mortuis lege natu<g ref="char:EOLhyphen"/>rae, &amp; ſe<g ref="char:EOLhyphen"/>paratione a<g ref="char:EOLhyphen"/>nimae ac<g ref="char:EOLhyphen"/>corporis, ſed de his qui pecato mor<g ref="char:EOLhyphen"/>tui ſunt. Hi<g ref="char:EOLhyphen"/>eron. in <hi>Iſaias. c. 26 1</hi>
+               </note> Jeſus Chriſt is not the reſurrection and the life to them. They are dead they ſhall notlive, they are diſea<g ref="char:EOLhyphen"/>ſed, they ſhall riſe, all their memory ſhall periſh, <hi>Iſa.</hi> 26.14. They are dead in their ſins, and continuing ſuch they cannot live the life of grace, &amp; ſhall not live the life of glory. He will indeed raiſe them up a<g ref="char:EOLhyphen"/>gain, but it will be only as a judge, calling them out of their graves as Malefactors out of their priſons, to appear before him to receive their ſentence only (as hath been ſaid) to the reſurrection of condemntion, <hi>Joh.</hi> 5.29.</p>
+            <p>Where by unbelievers I do not underſtand only Jews and Heathens, Turks, and ſuch like infidels which never made a profeſſion of the name of Chriſt. But alſo ſuch as though they profeſſe that they know God, yet in their works deny him. And even of ſuch the Apoſtle ſaith, that they are abominable, and diſobe<g ref="char:EOLhyphen"/>dient, and to every good work repro<g ref="char:EOLhyphen"/>bate, <hi>Tit.</hi> 1.16. Theſe may be Chriſti<g ref="char:EOLhyphen"/>ans in name, and outward profeſſion,
+<pb n="42" facs="tcp:35631:42"/>but unbelievers yea worſe then infidels in deed.</p>
+            <p>To ſuch I may ſpake in the words of the prophet <hi>Amos</hi> ch. 5.18. <hi>Wo unto you that deſire the day of the Lord, to what end is it for you? the day of the Lord is darkneſſe and not light; even very dark and no brightneſſe in it.</hi> And as another prophet ſpeaketh in a like caſe. The mighty man ſhall cry there bitterly. That day is a day of wrath, a day of trouble and diſtreſſe, a day of waſting and deſo<g ref="char:EOLhyphen"/>lation, a day of darkneſſe and gloomi<g ref="char:EOLhyphen"/>neſſe, a day of clouds and thick darkneſs, <hi>Zeph.</hi> 1.14, 15.</p>
+            <p>But alas many (yea too many) are apt to deceive themſelves, ſaying that they do believe, and repent and obey too, and that they do many things, and that they are better then many other men are. Thus the Phariſes, <hi>Luk.</hi> 18. He can ſay, <hi>God I thank thee, I am not as other men are extortioners, unjust, adul<g ref="char:EOLhyphen"/>terers, or even as this Publicane.</hi> And he did many good things too, and yet he did but deceive himſelf. In like manner <hi>Saul</hi> can meet <hi>Samuel</hi> with a great deal of confidence, and ſay, <hi>bleſſed be thou of the Lord: I have performed the commandment of the Lord,</hi> 2 Sam. 15.13.
+<pb n="43" facs="tcp:35631:42"/>yea <hi>Samuel</hi> hath much a do to convince him; He ſtands to it <hi>v.</hi> 20. <hi>Yea.</hi> ſaith he, <hi>I have obeyed the voice of the Lord, and have gone the way which the Lord ſent me. When as all the while he was in the very way of rebellion and ſtubborneſſe.</hi> ver. 23.</p>
+            <p>And are there not many, who have far leſſe to ſay for their works, and yet can boaſt much more of their faith; and though their words be never ſo evil, and their communication never ſo cor<g ref="char:EOLhyphen"/>rupt, and their actions never ſo vile; ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they can bleſſe themſelves, and thank God, they have a very good heart, and a ſtrong faith; and are as good chriſtians, and as ſound believers as the beſt.</p>
+            <p>And what is this but (as Mr. <hi>Shepard</hi> rightly calls it) a bramble faith,<note place="margin">Sound be<g ref="char:EOLhyphen"/>lievers. <hi>p.</hi> 72.</note> which indeed layes hold upon Chriſt, but as the bramble doth upon our skin, it only pricks and Scratcheth him, cauſing no<g ref="char:EOLhyphen"/>thing but reproach to his name, and grief to his ſpirit, <hi>Rom.</hi> 2.24. <hi>Phil.</hi> 3.18, 19. And what will be the end of ſuch deceit, but (as the Apoſile ſaith) deſtruction to them that truſt to it.</p>
+            <pb n="44" facs="tcp:35631:43"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> Laſtly unto ſuch as are true believers indeed, this is a word of unſpeakable and endleſſe comfort. <hi>Chriſt is the re<g ref="char:EOLhyphen"/>ſurrection and the life to them. All that ever he hath done or ſuffered, hath been for them; That he took on him the form of a ſervant, and humbled himſelf to the death of the croſſe, was laid in the grave, and for a time continued under the power of death: That he roſe again from the dead, and aſcended into heaven, and ſits at the right hand of the Majeſty on high:</hi> What<g ref="char:EOLhyphen"/>ever he was in his humiliaton, whatever he hath been, or is, in his exaltation, he hath been and he is wholy for belie<g ref="char:EOLhyphen"/>vers. <hi>For their ſakes ſaith Jeſus Chriſt I ſanctify my ſelf, that they alſo might be ſanctified through the truth.</hi> Joh. 17.19. <hi>For their ſakes I ſanctify my ſelf</hi> (i.e.) <hi>Offero me tibi in ſanctam victimam.</hi>
+               <note place="margin">Chriſoſt homil. <hi>81.</hi> Piſcator. <hi>in loc.</hi>
+               </note> 
+               <hi>I of<g ref="char:EOLhyphen"/>fer my ſelfe an holy ſacrifice. And by once offering he hath perfected forever them that are ſanctified,</hi> Heb. 10.14. <hi>For their ſakes, it is, hat he ever liveth making inter<g ref="char:EOLhyphen"/>ceſſion for them,</hi> Heb. 7.25. So that whatſoever times or changes may come, they are ſure it ſhall go well with them. <hi>Even when there ſhall be ſignes in the ſun, and in the moon and in the ſtars, and upon the earth diſtreſſes of Nations, with per<g ref="char:EOLhyphen"/>plexity,
+<pb n="45" facs="tcp:35631:43"/>as the ſea and the waves roaring,</hi> Luk. 21.25. <hi>When the ſun ſhall become as ſackcloath of hair, and the moon ſhall become as blood: And the ſtars of heaven ſhall fall unto the earth, even as a fig-tree caſteth her untimely figs, when ſhe is ſhaken with a mighty wind: When the heavens ſhall paſſe away like a Scroule, and the element ſhall melt with fervent heat, the earth alſo and the works that are therein will be burnt up.</hi> And every mountain and Iſland ſhall be moved out of their places. And mens hearts ſhall fail them for fear. <hi>And the Kings of the earth, and he great men, and the rich men, and the chief captains and the mighty men, and every bond man, and every freeman, ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide themſelves in the dens and in the rocks of the mountains. And ſhall ſay to the mountains and rocks fall on us, and hide <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from the face of him that ſitteth on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrone, and from the wrath of the lamb. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et ſaith Jeſus Christ unto believers, when <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhall ſee the ſon of man coming in a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loud with power and great glory: Even <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen theſe things begin to come to paſſe, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en look up and lift up your heads for your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edemption draweth nigh,</hi> Luk. 21.28. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehold the day cometh that ſhall burn as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oven, and all the proud, yea and all
+<pb n="46" facs="tcp:35631:44"/>that do wickedly ſhall be as stubble, and the day that cometh ſhall burn them up, ſaith the Lord of hoſts, that it ſhall leave them neither root nor branch. But unto you that fear my name, ſhall the ſon of righteouſneſſe ariſe with heal<g ref="char:EOLhyphen"/>ing in his wings.</hi>
+               <note place="margin">Mal. 4.1, 2</note>
+            </p>
+            <p>This is the portion of believers, and of them alone, a ſtranger doth not inter<g ref="char:EOLhyphen"/>meddle with their joy. To them only is <hi>Jeſus Chriſt the reſurrection and the life,</hi> and to them he is ſo, be their condition what it will. <hi>He that believeth in me, though he were dead, yet ſhall he live.</hi> Which brings me to the third point of doctrine, raiſed from the Am<g ref="char:EOLhyphen"/>plification of Chriſts power from the extent of it, He can and will raiſe them, be their condition never ſo deſ<g ref="char:EOLhyphen"/>perate.</p>
+            <q>Though he were dead yet ſhall he live.</q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>3</label> The power of raiſing of believers unto life ſpirituall and eternall in all the de<g ref="char:EOLhyphen"/>grees of it is ſo fully and abſolutly in the hands of Chriſt, that nothing can hinder him from raiſing of them when he will. All power (ſaith Jeſus Chriſt) is given unto me, in heaven and in earth, <hi>Matth.</hi> 28.18. That is, An
+<pb n="50" facs="tcp:35631:44" rendition="simple:additions"/>abſolute and ſupreme authority over all things both in heaven, and earth, is committed to the hands of Jeſus Chriſt (as he is mediatour) for the good of his Church. And if all power in heaven and earth, be in the hands of Chriſt, then he may do what he will in heaven, and earth, nothing can let him.</p>
+            <p n="1">1 He can remove all hinderances. If any thing could hinder Jeſus Chriſt from raiſing of believers unto life erernall, death and hell would do it; but theſe cannot. <hi>I have the Keyes of hell and of death,</hi> ſaith Jeſus Chriſt, Rev. 1.18. By his having of the keyes underſtand the power and authority of his office, he hath the chief authority and com<g ref="char:EOLhyphen"/>mand over theſe. And theſe are the greateſt and moſt powerfull enemies of believers.</p>
+            <p>Death is the king of terrours. And Hell is the ſecond death, even death,<note place="margin">Job. 18.14</note> eternal, the utmoſt iſſue and effect of ſin, which is the ſting of death.</p>
+            <p>Moreover death and hell are compre<g ref="char:EOLhyphen"/>henſive viles, they contain under them al the miſeries of this life, and of that which is to come (if at leaſt it may be law<g ref="char:EOLhyphen"/>full to call in life) weakneſs and ſickneſs
+<pb n="48" facs="tcp:35631:45"/>in the body, ſhame and reproach to the name, loſſes in the eſtate, croſſes in re<g ref="char:EOLhyphen"/>lations, grief and vexation in the mind, and laſtly the ſeparation of the ſoul from the body, and of both from God, and to be given up to the worm that never dieth, and to the fire that never goeth out. Now thy dominion over theſe is in the hands of Jeſus Chriſt, he hath them all in his power and at his diſpoſe. He hath vanquiſhed all theſe enemies and triumphed over them; <hi>And by death deſtroyed him that had the power of death, that is the devil; And delivered them, who through fear of death, were all their life time ſubject unto bondage,</hi> Heb. 2.14, 15. <hi>He hath led captivity captive. And he muſt raign till he hath put all his enemies under his feet,</hi> 1 Cor. 15.25. He ſhall have a full and abſolute conqueſt over them. They ſhall be ſo thoroughly ſub<g ref="char:EOLhyphen"/>dued, that they ſhall never riſe again.</p>
+            <p n="2">2 As he can remove all hinderances and oppoſitions, that nothing may reſiſt him: So he can command all helps &amp; further<g ref="char:EOLhyphen"/>ance what ever may be requiſite. <hi>He can command the ſea to give up the dead that are in it, and death and hell to deliver up the dead that are in them, Rev.</hi> 20.13. even with more eaſe, and better ſucceſſe
+<pb n="49" facs="tcp:35631:45"/>then a conquerour can command his captives that are at his mercy. He can give power to all meanes that they ſhall be effectuall, if he ſpeake but the word it ſhall be done. <hi>By the word of the Lord were the heavens made, and all the hosts of them by the breath of his mouth, and all power both in heaven and earth is in his hands, as was ſhewed even now.</hi>
+            </p>
+            <p>And if this be ſo, that the power of raiſing of believers from death to life ſpirituall and eternall, be ſo fully and abſolutly in the hands of Jeſus Chriſt, then how much doth this commend, and magnify the priviledge and happineſſe of believers; He that is their Lord and Maſter, their brother and friend, &amp; head and husband, who is ſo inſeparably and unchangably theirs, and hath loved them better then his own life; hath all things in his own power life, and death, both temporal and eternall, are in his hands, and he can diſpoſe of them at his plea<g ref="char:EOLhyphen"/>ſure; ſo that they may boaſt and glory in this ſaying with the Pſalmiſt; <hi>He that is our God is the God of ſalvation, Pſ.</hi> 68.20.</p>
+            <p>And I may ſay unto every believer as the women ſaid unto <hi>Neomy.</hi> Bleſſed be the Lord which hath not left thee this day whithout a kinſman, who ſhall
+<pb n="49" facs="tcp:35631:46"/>be unto thee a reſtorer of thy life, and a nouriſher of thine old age: for thy daughter in law which loveth thee, which is better to thee then ſeven ſonnes, hath born him. And bleſſed be God for Jeſus Chriſt whom he hath given unto thee, and who hath loved thee better then his own life, behold even he it is that hath the power in his own hands, to be the re<g ref="char:EOLhyphen"/>ſtorer of thy life, yea the raiſer of thee up unto eternal life. And it is better that it is in the hands of Chriſt, then in the hands of any friend in the world, were there but ſuch a power put into the hands of a father, or brother, or kinſman, or friend, we ſhould be apt to rejoyce in it, and to eſteem it a great priviledge, and yet it is poſſible they might faile us. But it is impoſſible that Chriſt ſhould faile.</p>
+            <p>Yea it is better then if it were in our own hands, for had we ſuch a priviledge, and were but left to the liberty of our wills (as <hi>Adam</hi> was) we ſhould be as apt to commit a forfeiture as he was.</p>
+            <p>And therefore that the founde<g ref="char:EOLhyphen"/>tion
+<pb n="58" facs="tcp:35631:46"/>of God might ſtand ſure, and that the Lord might know who are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is. He hath reſerved it in a ſurer hand. God hath raiſed up the Lord, and will alſo raiſe up us by his own power. 1 <hi>Cor.</hi> 6.14. and 2 <hi>Cor.</hi> 4.14.</p>
+            <p>But here it may be Queſtioned, that if there be ſuch a full and abſolute power in the hands of Chriſt of raiſing up be<g ref="char:EOLhyphen"/>lievers when he pleaſe, and that to life ſpiritual, and eternal, in reſpect of all the degrees of it; even a full power of raiſing them up from the death of ſin to the life of grace, and of recovering them after all their relapſes, the raiſing them up to higher degrees, and at laſt to raiſe them from death naturall to life eternall, and from the grave to glory.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 1 Why ſhould Jeſus Chriſt ſuffer ſo many of thoſe whom the farther hath given him, to lye ſo long dead in their ſins, before he raiſe them up to live the life of grace?</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> 2 Why ſhould it be ſo long ere he raiſe them up to perfection in grace?</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> 3 Why ſhould he ſuffer the bodies of believers which are holy, the temples of the holy ghoſt, and members of his
+<pb n="52" facs="tcp:35631:47"/>own body; to lie ſo long in their graves, to corrupt and putrify, and that there ſhould be no difference, between the condition of the believer, and unbelie<g ref="char:EOLhyphen"/>ver, neither that their duſt ſhall be cap<g ref="char:EOLhyphen"/>able of being diſtinguiſhed the one from the others.</p>
+            <p>For anſwer unto theſe, though there were no other reaſon to be given but this in generall, that it is the will and good pleaſure of God to have it ſo, yet that were ſufficient to ſet bounds to our curioſity, in inquiring after the reaſons of his diſpenſations. But yet it may be far<g ref="char:EOLhyphen"/>ther ſaid (though all that I ſhall adde will be in order to the better underſtanding of that.)</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>1</label> To the firſt, That Jeſus Chriſt doth ſuffer many of thoſe whom the father hath given him to lie long dead in their ſins before he raiſeth them up unto the life of grace. I anſwer firſt, Nega<g ref="char:EOLhyphen"/>tively.</p>
+            <p n="1">1 He doth not do ſo by all, ſome are ſanctified and raiſed up in the very womb,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.15.</note> 
+               <hi>Jer.</hi> 1.5. and from the womb. Some in their youth; and ſome not untill they are ready to drop into the grave.</p>
+            <pb n="53" facs="tcp:35631:47"/>
+            <p n="2">2 That he raiſeth up ſome ſooner or more early then others doth not proceed from any worthineſs that is in one more then another either in reſpect of birth, that one is born of better and more gra<g ref="char:EOLhyphen"/>cious parents then another, or that one hath had better education then the other, or that the one hath better natural or ac<g ref="char:EOLhyphen"/>quired parts, or hath had better means or opportunities, or naturally had better inclinations to be wrought upon.</p>
+            <p>
+               <hi>Manaſſeh</hi> the ſon of good <hi>Hezekiah,</hi> who in all likelihood, as he had the pri<g ref="char:EOLhyphen"/>viledge to be born of a very Sincere and gracious father who doubtleſſe was not wanting in the duty of a father either in precepts, example or prayers, beſides other good meanes were not wanting, neither for any thing that appears did he want parts to apprehend and approve them. And yet we ſee it was long ere he was raiſed up.</p>
+            <p>
+               <hi>Joſiah</hi> the ſon of wicked <hi>Amon</hi> in a worſe time, and under leſſe means, and yet he is raiſed up betimes, 2 <hi>Chron.</hi> 34.3.</p>
+            <p n="3">3 I anſwer affirmatively. It is 1 To manifeſt the liberty, and power of his own will, in the diſpenſation of his
+<pb n="54" facs="tcp:35631:48"/>grace. It is in his power to do with his own as he pleaſe. Neither have they that were called in at the firſt hour, reaſon to boaſt of themſelves, or to envy at o<g ref="char:EOLhyphen"/>thers, that come in after them, that they are made equal unto them. Nor they that are raiſed up, (as it were) in the laſt hour, cauſe to murmur, that they had not a more early call.<note place="margin">Mat. 20.15</note> Is it not lawfull (ſaith he) for me, to do what I will with mine own.</p>
+            <p n="2">2 To magnify the exceeding riches of his goodneſs, in his for bearance, &amp; long-ſuffering, untill the ſinner hath filled up the meaſure of his iniquity, and is be<g ref="char:EOLhyphen"/>come in a manner ripe for judgment: and when (in mans apprehenſion) no<g ref="char:EOLhyphen"/>thing was to be lookt for, but that the re<g ref="char:EOLhyphen"/>ward of his hands ſhould be given him: As who would ever have thought, having ſeen <hi>Manaſſeh</hi> acting over all thoſe hor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id abominations,<note place="margin">1 King. 21</note> Idolatries, witchcrafts, murthers, with all their ſeverall aggrava<g ref="char:EOLhyphen"/>tions, even to an obſtinate reſiſting,<note place="margin">2 Cron. 33 10</note> and rejecting the means, which were vouch<g ref="char:EOLhyphen"/>ſafed him for his reformation: that yet the Lord ſhould retain any thoughts of mercy and grace towards ſuch an Apoſ<g ref="char:EOLhyphen"/>tate; And that even then he ſhould cauſe a ſpirit of light and life to enter into him, and to raiſe him up, by a ſound and
+<pb n="55" facs="tcp:35631:48"/>thorough repentance, and to cauſe him to live the life of grace. This muſt needs be to the praiſe of the glory of his grace: and to provoke men,<note place="margin">Gal. 1.24.</note> to glorify God in them, and to cry out, O the depth of the riches not only of the wiſdom and knowledg of God (as the Apoſtle in a<g ref="char:EOLhyphen"/>nother caſe) but alſo of the bounty and love of God our Saviour!<note place="margin">Ro. 11.33.</note> not unto the wiſe and prudent, not unto the righteous or juſt, which need no repentance:<note place="margin">Pſa. 68.18 Tit. 3.3, 4, 5</note> But to the rebellious alſo, to the fooliſh and diſobedient, deceived, ſerving divers luſts and pleaſures, living in malice and envy, hatefull, and hating one another.<note place="margin">Act. 9.1.</note> Even while they are yet breathing out threat<g ref="char:EOLhyphen"/>nings and ſlaughter againſt the Saints. Surely (may they ſay) it is not by works of righteouſneſſe which we have done, but according to his mercy that he ſav<g ref="char:EOLhyphen"/>eth us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> To the ſecond queſtion, why it is ſo long ere he raiſe up believers to perfec<g ref="char:EOLhyphen"/>tion in grace, ſeeing it is in his power to give them perfection as ſoon as a being. 1 It may be anſwerd that it is not through any defect on Chriſts part, but through the incapacity of the ſubject. Chriſt by one offering hath perfected forever them that are ſanctified, <hi>Heb.</hi> 10.14. (that is) he hath
+<pb n="56" facs="tcp:35631:49"/>done all that was required on his part for the perfecting of them; by the merit and efficacy of his death he hath purchaſ<g ref="char:EOLhyphen"/>ed for them, and beſtowed upon them, reconciliation with God, remiſſion of ſins, the purification of their conſciences, and eternall redemption.</p>
+            <p>But ſuch is the incapacity of the ſub<g ref="char:EOLhyphen"/>ject, that is of believers, in reſpect of that maſſe of corruption that is allwayes re<g ref="char:EOLhyphen"/>ſiſting of the workings of Chriſt, by the ſpirit: that it will not ſuddenly be ſub<g ref="char:EOLhyphen"/>dued.</p>
+            <p>There are many graces to be exerciſed and improved, which cannot be perfec<g ref="char:EOLhyphen"/>ted on a ſudden, knowledge, and faith, and Love, and hope, and patience; muſt have time to grow in. The ſpiri<g ref="char:EOLhyphen"/>tuall man, as well as the naturall, hath different eſtates, to be paſſed tho<g ref="char:EOLhyphen"/>rough, an eſtate of infancy, and child<g ref="char:EOLhyphen"/>hood before a full ſtature; A child though of never ſo able, and learned a teacher, cannot preſently be made a perfect Schollar, it is a work of time. The maſter may have much to com<g ref="char:EOLhyphen"/>municate, but he muſt be content to waite the time till the Scholar be able to receive it. I have many things to ſay unto you (ſaith Jeſus Chriſt to his diſci<g ref="char:EOLhyphen"/>ples)
+<pb n="57" facs="tcp:35631:49"/>but ye cannot bear them now, <hi>Joh.</hi> 16.12. <hi>I could not ſpeake unto you bre<g ref="char:EOLhyphen"/>thren as unto ſpiritual, but as unto carnall,</hi>
+               <note place="margin">1 Cor. 3.1 2 Hebr. 5.11 12, 13, 14.</note> 
+               <hi>even unto babes in Chriſt, I have fed you with milk, and not with meat, for hither<g ref="char:EOLhyphen"/>to ye were not able to bear it, neither yet now are ye able.</hi>
+            </p>
+            <p n="2">2 The ordinary way of Chriſts work<g ref="char:EOLhyphen"/>ing, is in the uſe of meanes; Now the meanes by which he raiſeth up the elect, from the death of ſin, to the life of grace are his ordinances? which he hath alſo appointed,<note place="margin">Rom. 10 14.1 Cor. 1.21 1 Pet. 2.3 &amp; 2.2. Epheſ. 4.11, 12, 13 Col. 1.28.</note> for their building up unto perfection, which they in time attaine unto by the effectuall working of his ſpirit. Whereas ſhould they be as ſoon perfected, as they are regenerated, many propheſies, promiſes, and inſtitutions of Chriſt in his word, would remain un<g ref="char:EOLhyphen"/>accompliſhed, and uſeleſſe.</p>
+            <p n="3">3 Jeſus Chriſt doth take the more time,<note place="margin">2 Tim. 3.16, 17.</note> for the raiſing up of believers unto perfection; That he may have the bet<g ref="char:EOLhyphen"/>ter oportunities, for the glorifying of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he wiſdome, and power, of the truth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd faithfullneſſe, and of the patience <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd goodneſſe of God.</p>
+            <p>The Lord could as ſoon have given <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the children of <hi>Iſrael</hi> the poſſeſſi<g ref="char:EOLhyphen"/>on of the land of <hi>Cannan,</hi> as the promiſe
+<pb n="59" facs="tcp:35631:50"/>of it;<note place="margin">Act. 13.18</note> but choſe rather to delay them for a long time in <hi>Egypt. And to ſuffer their manners forty years in the wilder<g ref="char:EOLhyphen"/>neſſe:</hi> that he might get him honour by the deſtruction of his enemies, and pre<g ref="char:EOLhyphen"/>ſervation of his people. In like manner though he could as ſuddenly perfect, as regenerate believers, yet he takes more time, that he may the more advance his own name, in the manifeſtation of his ſpeciall providence over them, and in the better preparing them for glory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> To the third queſtion it may be an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. 1 That the Lord pleaſed to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the members of his myſtical body, to he ſo long in their graves, even untill the number of their brethren be fullfil<g ref="char:EOLhyphen"/>led: that the members may be perfected together. Such is the anſwer which is given by the Lord himſelf, to them that were ſlayn for the word of God, and for the teſtimony which they held: when they cryed with a loud voice ſaying. <hi>How long Lord, holy and true, doeſt thou not judge and avenge our bloud on them that dwell on the earth.</hi> And it was ſaid unto them, that they ſhould <hi>reſt for a little ſeaſon, untill their fellow-ſervants
+<pb n="59" facs="tcp:35631:50"/>alſo, and their brethren that ſhould be killed as they were, ſhould be fullfilled</hi> Rev. 6.9, 10, 11.</p>
+            <p n="2">2 They are ſuffered to rot, and putri<g ref="char:EOLhyphen"/>fie, and to be turned into duſt, and to be mingled without diſtinction. That the power of God may be the more manifeſted in their reſurrection, and becauſe the time of ſetting a difference between the righteous and the wicked is not till then.<note place="margin">
+                  <hi>vid. Petr. Martyr.</hi> i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2 Reg. c. 4. f. 280. B.</note>
+            </p>
+            <p>I have done with the obſervations ariſing from the text, abſolutely conſider<g ref="char:EOLhyphen"/>ed. I come now unto thoſe which have been raiſed from it as conſidered with relation to the context. The firſt whereof (being the fourth in order) is taken from the words as they containe a doctrine delivered, and aſſerted, by Jeſus Chriſt: for the correcting, and curing of <hi>Marthas</hi> ignorance and er<g ref="char:EOLhyphen"/>rour, concerning his almighty power and Godhead.</p>
+            <p>Whence we have obſerved that,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>4</label> To be rightly informed in the doctrine of the power and intereſt, which Jeſus Chriſt hath in the reſurrection and the life, is an eſpeciall meanes, to cure the ignorance, and to prevent the er<g ref="char:EOLhyphen"/>rours,
+<pb n="60" facs="tcp:35631:51"/>we are apt to be corrupted with<g ref="char:EOLhyphen"/>all, conceruing the power and Godhead of Chriſt.</p>
+            <p>That which hath been already ſpoken in the handling of the firſt obſervation, I ſuppoſe may ſave me the labour and the time, that otherwiſe might have been employed in inlarging upon this. There you have heard that Jeſus Chriſt is the author or efficient cauſe of the re<g ref="char:EOLhyphen"/>ſurrection, and the life. And in the ap<g ref="char:EOLhyphen"/>plication, we made uſe of it, for the confirming of our faith in the Godhead of Chriſt. I ſhall therefore adde no more, for the proof or application of this point: but only this, That he which doth know, and believe that Jeſus Chriſt is the author, and efficient cauſe of the reſurrection, and the life, cannot doubt, but that the fullneſs of the God<g ref="char:EOLhyphen"/>head, dwelleth in him bodily or ſubſtan<g ref="char:EOLhyphen"/>tially.</p>
+            <p n="2">2 From the words, in relation to the context. Whereas Jeſus Chriſt for the moderating, quieting, and comfort<g ref="char:EOLhyphen"/>ing of <hi>Martha</hi>'s ſpirit, now apt to ex<g ref="char:EOLhyphen"/>ceed in mourning and grieving for the death of her brother, doth eſpecially make choiſe of and inſiſt upon the doc<g ref="char:EOLhyphen"/>trine of the reſurrection, and the life;
+<pb n="61" facs="tcp:35631:51"/>and the informing her in, and affecting her with, his abſolute power in it and Soveraignty over it. <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>5</label> The obſervation is this. Rightly to be informed in, and to be affected with the doctrine of the reſur<g ref="char:EOLhyphen"/>rection and the life, and of Chriſts power in it, is of eſpeciall uſe to comfort the ſorrowfull, and mourning friends, of ſuch as die in the faith.</p>
+            <p>I ſay, to be informed, to exclude ig<g ref="char:EOLhyphen"/>norance, and to be rightly informed, to avoid errour. I ſay firſt to be informed, in it and then to be affected with it. Be<g ref="char:EOLhyphen"/>cauſe the information of the judgment, muſt go before the motions of the will; and that not only as a guide to conduct unto the right end, but alſo as a counſeller to adviſe unto the pro<g ref="char:EOLhyphen"/>per meanes, and alſo as Gods miniſter in ſome ſort to command, (that is not by any power or authority of its own but) by manifeſting what is the will of God; whereunto our wills are to be ſubject; and by propoſing the promiſes, and threats, either to quicken the dullneſſe, or to check the unrulineſſe of our affec<g ref="char:EOLhyphen"/>tions.</p>
+            <p>And I ſay both to be rightly informed and affected, becauſe both are neceſſary.
+<pb n="62" facs="tcp:35631:52"/>To have the mind inlightned, and the heart not affected, is to have light without life; and much affection with<g ref="char:EOLhyphen"/>out knowledge is but diſtempered paſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">Jam. 3.6.</note> not unlike to hell fire which hath much heat, but no light. There is neither profit, nor comfort in the want of either. But to have the mind rightly informed in the truth of the doc<g ref="char:EOLhyphen"/>rine of the reſurrection, and the life; and of Chriſts power, and intereſt in it, and to have the heart ſincerely af<g ref="char:EOLhyphen"/>fected with it, quiets the minde and revives the ſpirit. And he that layeth his friend in the grave, being perſwaded of his intereſt in Chriſt, will have his fears ſo tempered with hope, and his grief with patience, as it is with the husbandman,<note place="margin">Amos 9.13</note> in a time of peace when the plowman overtakes the reaper, and the treader of grapes him that ſoweth ſeed.<note place="margin">Jam. 1.2.</note> The believer is allwayes ſowing and reaping together; he reaps good out of evil, and comforts from croſſes, and joy in temptations. The life of a chriſtian is much like unto that of thoſe Troglodites in <hi>Ethiopia</hi> amongſt whom it is ſaid <hi>toto anno ſeritur ac meti<g ref="char:EOLhyphen"/>tur</hi> All the year they are ſowing and reaping,<note place="margin">Scalig. Ex<g ref="char:EOLhyphen"/>ercit. <hi>249.</hi> diſtinct. <hi>2.</hi>
+               </note>
+            </p>
+            <pb n="63" facs="tcp:35631:52"/>
+            <p>The uſe of this piont is to ſhew the vaſt difference that is between the ſuner<g ref="char:EOLhyphen"/>all mournings of Chriſtians and hea<g ref="char:EOLhyphen"/>thens.</p>
+            <p>The heathens indeed made death a Goddeſſe, becauſe of her power (beat<g ref="char:EOLhyphen"/>ting down all before her) but yet they gave her no divine honours, nor temple, nor prieſt, nor altar, nor ſacrifice, nor feſtivall dayes, becauſe they looked upon her as one that did them all the miſchief, and from whom they hoped for no good.</p>
+            <p>And for a like reaſon they crowned <hi>Pluto</hi> (by whom they ſignified death or the grave) with the leaves of the Cypreſs tree,<note place="margin">The like is ſaid of the Pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e tree, which alſo for that cauſe is uſed by ſome for an emblem of death.</note> which as they ſay is a tree of that nature, that being once cut down never buds nor grows again. And therefore it is not to be marvelled at, if they exceed<g ref="char:EOLhyphen"/>ed in ſorrow for their dead, Since it is manifeſt they were men without hope. But for Chriſtians it ought not to be ſo with them. To ſuch the Apoſtle ſpeaks, <hi>Brethren I would not have you to ſor<g ref="char:EOLhyphen"/>row even as others which have no hope.</hi>
+               <note place="margin">1 Theſ. 4.13. Eph. 2.12.</note> 
+               <hi>For if we believe that Jeſus died and roſe again, even ſo them alſo which ſleep in Jeſus will God bring with him,</hi> 1 Theſ. 4.13, 14.</p>
+            <pb n="64" facs="tcp:35631:53"/>
+            <p>
+               <hi>They that die in the faith, die in the Lord, they ſleep in Jeſus,</hi> Chriſt is ſtill their head, and they his members, and if he be riſen, they muſt needs riſe alſo. As long as the head is above water the members cannot be drowned.</p>
+            <p>The heathen complaind that their dead were ingratefull.</p>
+            <q>Flebant,<note place="margin">Ver. Aeued. <hi>l. 6.</hi>
+               </note> &amp; cineri ingrato ſuprema fere<g ref="char:EOLhyphen"/>bant.</q>
+            <p>Though they cryed never ſo loud, yet there was no reply, though they performed never ſo many rites and ſervices yet there was no return: but for believers their faith ſpeakes when they are dead.<note place="margin">Heb. 11.4.</note> Their faith in God, their covenant with God, their pray<g ref="char:EOLhyphen"/>ers to him, and all that ever they did, or ſuffered for God, are written in Gods book, and are as ſo many ſpeak<g ref="char:EOLhyphen"/>ing remembrancers before the Lord.<note place="margin">Exod. 17.14 1 Sam. 15.2 Iſa. 37.35. Exod. 20.5 6. Deut. 9.27</note> Wicked mens evill works ſpeak alſo: but it is for vengeance upon their wicked off-spring, the ſpeaking of belie<g ref="char:EOLhyphen"/>vers is for good to their poſterity, that walke in the ſame faith.</p>
+            <p n="2">2. <hi>Uſe.</hi> This ſhewes what they are concerning whom their friends may thus comfort themſelves in their death, they are beli<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs and none but they:
+<pb n="65" facs="tcp:35631:53"/>
+               <hi>None but ſuch as believe in Jeſus, do ſleep in Jeſus, and none but ſuch as ſleep in Jeſus, will God bring with him.</hi>
+            </p>
+            <p>If ever we deſire that our friends may have any thing to comfort themſelves withall, concerning us, when we are dead, we muſt be of the number of thoſe that die in the faith, otherwiſe we leave our friends comfortleſſe and to mourn without hope.</p>
+            <p>But here it may be queſtioned
+<list>
+                  <item>1 What is it to die in the faith?</item>
+                  <item>2 Who are they that (as we may judge do) die in the faith? For anſwer</item>
+               </list>
+            </p>
+            <p n="1">1 To die in the faith, is to die in a con<g ref="char:EOLhyphen"/>ſtant dependance, and reliance, on the truth, and faithfullneſſe of God, in the promiſes, for remiſſion of ſins, and life eternal in Chriſt, (in whom all the pro<g ref="char:EOLhyphen"/>ſes are <hi>yea,</hi> and <hi>amen,</hi> that is, made, and perfected) ſo that ſuch, as neither the multitude nor greatneſs of their ſins, or miſeries, can overthrow their faith. But that they can and do believe, that though they die, yet that in Chriſt they ſhall live, and that eternally, may be ſaid to die in the faith. Thus it is ſaid of <hi>Abraham</hi> and <hi>Sarah,</hi> and <hi>Iſaack,</hi> and <hi>Jacob,</hi> and their poſterity, that though they received not the promiſe, that is the
+<pb n="66" facs="tcp:35631:54"/>accompliſhment of the grace promiſed, whether it concerned their Salvation by the <hi>Meſſiah,</hi> or the poſſeſſion of the land of <hi>Canaan,</hi> which was but a type of their inheritance in heaven: yet they died in a ſtedfaſt belief, and expectati<g ref="char:EOLhyphen"/>on of it, and therefore it is ſaid, <hi>they all died in the faith,</hi> Hebr. 11.13.</p>
+            <p>And thus all that die, in a firm per<g ref="char:EOLhyphen"/>ſwaſion of the remiſſion of their ſins, and of eternal life, in and thorough the merits and mediation of Chriſt, may be ſaid to die in the faith; and ſuch as do ſo inſeparably cleave unto the Lord, that death cannot ſeparate them, may be ſaid to die in the Lord. And ſuch are pronounced bleſſed. <hi>Rev.</hi> 14.13.</p>
+            <p>Such as do not thus die in the faith, die in their ſins. <hi>If ye believe not that I am he, ye ſhall die in your ſins,</hi> Jo. 8.24. <hi>And as there is no condemnation to them that are in Chriſt Jeſus,</hi> Rom. 8.1. that is by faith, ſo there remaines no<g ref="char:EOLhyphen"/>thing but condemnation to ſuch as die without it.</p>
+            <p>But ſince all our comfort concerning our deceaſed friends, depends upon their dying in the faith, or at leaſt upon our judging of them to be ſuch, I ſhall therefore in anſwer to the ſecond Queſ<g ref="char:EOLhyphen"/>tion
+<pb n="67" facs="tcp:35631:54"/>endeavour to ſhew who they are, that as, we may judge, do die in the faith. And they are (as I humbly conceive) ſuch as theſe.</p>
+            <p n="1">1 They that die in a ſound and ſerious profeſſion of the doctrin of faith. He that abideth in the doctrine of Chriſt, he hath both the father and the ſon, 2 <hi>ep.</hi> Joh. 9.<note place="margin">Piſcat. <hi>in</hi> loc.</note> 
+               <hi>id eſt, verum Deum novit, ac proinde vitae aeternae particeps est. He hath knows the true God, and therefore is partaker of eternall life.</hi> Joh. 17.3.</p>
+            <p n="2">2 They that die in a profeſſed ſerious denyall and renouncing of their own righteouſneſſe, <hi>Philip.</hi> 3.9.</p>
+            <p n="3">3 They that die in a ſerious profeſſion of an unfained repentance of their ſins, and of all their aberrations from the rule of faith and life. He that hath given us a command concerning him that ſhall treſpaſſe againſt us ſeven times in a day, and ſeven times in a day turn again to us ſaing, I do repent, that we ſhould for<g ref="char:EOLhyphen"/>give him, doth thereby manifeſt how charitable he would have us to be in judging of offenders, when they pro<g ref="char:EOLhyphen"/>feſſe repentance, neither is the Lord leſſe gracious towards ſinners himſelf. I ſaid (faith the Pſalmiſt) <hi>I will confeſſe my tranſgreſſion unto the Lord and thou
+<pb n="68" facs="tcp:35631:55"/>gaveſt the iniquity of my ſin, Pſalm.</hi> 32.5.</p>
+            <p n="4">4 Thoſe that die in a ſerious profeſ<g ref="char:EOLhyphen"/>ſion of love, and affection, to God, and his wayes, and ſervants, owning and approving, of them, and perſwad<g ref="char:EOLhyphen"/>ing others to the ſame duty. 1 <hi>Joh.</hi> 4.7, 12. Thus <hi>Abraham,</hi> and <hi>Iſaack,</hi> and <hi>Jacob</hi> when they were on their beds, or near dying, gave ſuch evident teſtimo<g ref="char:EOLhyphen"/>nies, of their love to God, and his wayes; they have this teſtimony given them, that they died in the faith.</p>
+            <p n="5">5 They who ſo ſtedfaſtly lay hold upon the mercy, and grace of God, in Chriſt, for life, and ſalvation; that neither the temptations of Satan, nor the allurements of the world, nor the troubles of life, nor terrour of death, can cauſe them to faint, or fall from the faith, which they have profeſſed: but that they perſevere therein unto the end. Theſe (as I conceive) we may, and ought to judge, that they die in the faith. Infidells, and reprobates, are not wont to die thus. See the difference between the penitent and impenitent, thief; the one dies owning, and honoting of Chriſt; the other up braiding, reproach<g ref="char:EOLunhyphen"/>ing, and railing upon him. <hi>Luk.</hi> 23.39. &amp;c.</p>
+            <pb n="69" facs="tcp:35631:55"/>
+            <p>In our judging in theſe caſes, theſe, or the like cautions are to be obſerved.</p>
+            <p n="1">1 We muſt know that we cannot judge of the finall eſtate of others by a judgment of faith or infallibility; we have nothing revealed to warrant us in ſo doing, and therefore our judgment, being only conjecturall, or at beſt but a probable opinion and no certain knowledge; that it may be as indeed it ought to be a judgment of Charity, it becomes us to be ſo<g ref="char:EOLhyphen"/>ber, and moderate in judging of others, and to that end we are to con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p n="2">2 What cautions the ſpirit of God (ſpeaking in the word) hath given us againſt raſh judgment.<note place="margin">Jam. 4.11, 12.</note> 
+               <hi>Why doeſt thou ſet at naught thy brother? We ſhall all ſtand before the judgment ſeat of Christ. Every one of us ſhall give an account of himſelf to God. Let us not therefore judge one another any more,</hi> Rom. 14.10, 12, 13.</p>
+            <p>Again <hi>judge nothing before the time, untill the Lord come, who both will bring to light, the hidden things of dark<g ref="char:EOLhyphen"/>neſſe, and will make manifeſt, the counſells of the heart.</hi> 1 Cor. 4.5.</p>
+            <p>The judgeing of the dead is indeed a
+<pb n="70" facs="tcp:35631:56"/>a finall judgment, which belongs not unto us but unto Jeſus Chriſt. It is true, <hi>the ſaints ſhall judge the world,</hi> that is they ſhall be preſent with, and appro<g ref="char:EOLhyphen"/>vers of, and conſenters unto the judg<g ref="char:EOLhyphen"/>ment of Chriſt, not that their judgment ſhall prevent, but follow after the judg<g ref="char:EOLhyphen"/>ment of Chriſt.</p>
+            <p n="3">3 Our judging of others in our own thoughts, muſt be ſuch as we will be willing ſhould come under the judgment of God; how often do we find Chriſt bringing the Phariſees to ſhame, for their evil, and miſ-judging thoughts. See <hi>Matth.</hi> 9.4. and 12.25. <hi>Luke</hi> 7.39. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>We muſt judge of others, as we would be judged our ſelves: for with what judgment we judge, we ſhall be judged,</hi> Mat. 7.1, 2. <hi>and with what meaſure we mete, it ſhall be meaſured to us again,</hi> whether it be in mercy or juſtice.</p>
+            <p n="4">4 If we manifeſt our judgment to o<g ref="char:EOLhyphen"/>thers, we muſt be ſure, that it be accor<g ref="char:EOLhyphen"/>ding to truth; and alſo that the manifeſt<g ref="char:EOLhyphen"/>ing of it is for the glory of God, the edification of our neighbour, and in diſcharge of our own duty; that we have a call to it, and that it is either neceſſary, or very expedient, and ſeaſonable, and that we ſhall be at leaſt in danger of ſin
+<pb n="71" facs="tcp:35631:56"/>if we do it not. Let us therefore take heed to our wayes, that we ſin not with our tongues. Let us firſt commune with our own hearts, and ſay to our ſelves, every one apart, is this my duty? is this according to the rule? what good ſhall I do in ſo doing? have I a call to it at this time; in this place, and in this com<g ref="char:EOLhyphen"/>pany?</p>
+            <p>And here the ſad occaſion of this ſo<g ref="char:EOLhyphen"/>lemnity may have its place to be ſpoken to. And were I to ſpeake of one that rather needed an Apology to excuſe him, then deſerved an Elogy in his commendations, I ſhould require no more, but to confine mine auditors to the rules laſt mentioned.</p>
+            <p>But (bleſſed be God) this eminent perſon, of whom I am to ſpeake, was one whoſe tongue, and pen were ſo ready to be employed in the behalf of others in their diſtreſſe, that though I ſhould be ſilent, yet even they whoſe potent and ſucceſſefull orator he hath often prov'd, would ſtand forth and praiſe him in the gates.</p>
+            <p>The Scriptures (which are to be our rule in all our undertakings are not ſpar<g ref="char:EOLhyphen"/>ing, in giving an honourable memoriall to the dead. We find three inſtances of
+<pb n="72" facs="tcp:35631:57"/>men of different tempers. <hi>David</hi> per<g ref="char:EOLhyphen"/>forms this office more then once; In the 2 <hi>Sam.</hi> 1. We have him lament<g ref="char:EOLhyphen"/>ing, not only over <hi>Jonathan,</hi> a good man, and his faithfull friend; but alſo over <hi>Saul,</hi> a very bad man, and his pro<g ref="char:EOLhyphen"/>feſſed enemy that fought his life. Yet in reſpect of his uſefullneſs to the common<g ref="char:EOLhyphen"/>wealth of <hi>Jſrael;</hi> he will not let him paſs without a laudatory commemorati<g ref="char:EOLhyphen"/>on of whatſoever was praiſeworthy in him, with concealment of his vices.</p>
+            <p>And <hi>Abner</hi> (though none of the beſt) yet he hath an honorable interre<g ref="char:EOLhyphen"/>ment, and a funerall oration, and all the people are called in, to mourn over him, and the King himſelf fol<g ref="char:EOLhyphen"/>loweth the bier, lamenting and weep<g ref="char:EOLhyphen"/>ing over him. And if any ſhould ask the reaſon, why ſo much ado for <hi>Abner?</hi> What, (ſaith <hi>David</hi> know you not that there is a prince and a great man fallen this day in <hi>Iſrael,</hi> 2 <hi>Sam.</hi> 3. A man that was uſefull, and apt to be an inſtrument of much good, to his people, in ſuch a time as that was, for the mak<g ref="char:EOLhyphen"/>ing up and healing of the breach, that was then between the tribes, and was now ready to be employed in that work. And ſuch the Scriptures (as it is conceived)
+<pb n="73" facs="tcp:35631:57"/>ſometimes call good men. As <hi>Micah.</hi> 7.2. The good man is periſhed; that is, ſay ſome, The uſefull man, that might be inſtrumentall for good, is cut off, and taken away, periſhed as to his place, and people, and that in ſuch a time, wherein he might have done much good, and wherein he could ill be ſpar'd. In which ſenſe alſo is that text (probably) to be underſtood, <hi>Rom.</hi> 5.7. <hi>Scarcely for a righteous man will one die, yet peradventure for a good man ſome would even dare to die.</hi> By the righteous underſtanding one that is in himſelf a righteous and vertuous man. By the good ſuch as have deſerved well of us, from whom we have received good. So that it is as if he had ſaid, though for an ordinary man, though godly, one would hardly die,<note place="margin">
+                  <hi>Willet</hi> in Rom. 7. Q. 11. pa<g ref="char:EOLhyphen"/>rag. 7.</note> yet for a good man, that is ſome eminent uſefull man, he would not only be ready with the <hi>Galathians</hi> to pluck out his eies, but alſo to lay down his life.</p>
+            <p>And doubtleſſe at leaſt in this ſenſe, we may ſay a good man is fallen, a uſefull man, that would have been inſtru<g ref="char:EOLhyphen"/>mentall for much good: and that in a time when there is moſt need of ſuch, and when he could but ill be ſpar'd. But I ſhall not reſt in this. there are ſome
+<pb n="74" facs="tcp:35631:58"/>things that deſerve a remembrance in his ſeverall relations.</p>
+            <p>In his relation unto God, In reſpect of his faith: he was no ſelf-juſticiary, he truſted not to his own righteouſneſſe: But profeſſed his full aſſurance of the free pardon of his many and great ſins through the only merits of Jeſus Chriſt; on whom he layed hold as his only Savi<g ref="char:EOLhyphen"/>our and redeemer.</p>
+            <p>In reſpect of his repentance, He was ſenſible of the burden of his ſins, com<g ref="char:EOLhyphen"/>plaining of indiſpoſition and deadneſs of his heart, unaptneſſe unto good, and of the thronging in of vain and unprofit<g ref="char:EOLhyphen"/>able thoughts, which were ever ready to trouble and diſtract him, when he would willingly be doing of his duty. And that he found the time of the ſick<g ref="char:EOLhyphen"/>neſſe of the body, an ill time for ſpiri<g ref="char:EOLhyphen"/>tuall exerciſes. And although in the time of his health, he was carefull to attend the Lords work, upon the Lords day; conſtantly frequenting the publike worſhip of God both morning and eve<g ref="char:EOLhyphen"/>ning, moſt uſually preſent with the firſt: and was alſo carefull to have the wor<g ref="char:EOLhyphen"/>ſhip of God kept up in his family, as be<g ref="char:EOLhyphen"/>ing deſirous, that both he and his houſe might ſerve the Lord: Yet neither that
+<pb n="75" facs="tcp:35631:58"/>which he performed in publike, or pri<g ref="char:EOLhyphen"/>vate, did ſatisfy him, But that in the time of his ſickneſſe, when it pleaſed God to put him upon the calling of him<g ref="char:EOLhyphen"/>ſelf to remembrance, and to affect his heart with the thoughts of his ſpirituall eſtate. He profeſſed that there was no<g ref="char:EOLhyphen"/>thing that troubled him but his ſin. And that ſin which God moſt eſpecially ſet home upon his ſpirit, and for which (in a day of ſolemn ſeeking unto God) he made it his earneſt deſire, that God might be ſought unto in his behalf, for the pardon of it, was his neglect of duty. It is that which moſt of us little think on in the time of our health, when we ſlight or neglect an ordinance of God. an opportunitie of worſhiping God, and of doing good to our ſouls; that the re<g ref="char:EOLhyphen"/>membrance of this will be bitterneſs in the end. In the time of our ſickneſſe, when the ſpirit of God, inſtead of bring<g ref="char:EOLhyphen"/>ing to remembrance, the conſolations of God in his word, ſhall only remem<g ref="char:EOLhyphen"/>ber us of our ſlighting and neglects of of the word, and then inſtead of giving us repentance, God by death ſhall ſweep us away in our ſins, and judgment ſhall find us as death leaves us, and when we look for comfort we meet
+<pb n="76" facs="tcp:35631:59"/>with nothing but rebukes: How ſad will our condition be? The ſluggard (ſaith the wiſe man, <hi>Prov.</hi> 20.4.) will not plow by reaſon of the cold, therefore ſhall he begge in harveſt and have nothing. As he that is ſlothfull in his particular calling, may juſtly expect to be in wants when others are reaping the fruit of their Iabours. So he who in his life time (which is the time of ſpirituall plowing) is negligent in the duties of his generall calling: In the day of judgment which is the time of harveſt (with the fooliſh virgins, and the rich Glutton) ſhall begge in vaine. Such as for fear of cold, or love of eaſe, do now careleſſely neglect the publike aſſemblies, and ordinances of God, or heedleſsly, or unprofitably attend them, ſhall begge at laſt for grace and com<g ref="char:EOLhyphen"/>fort, and be ſent empty away <hi>Pro.</hi> 1.24.28. Only herein the riches of Gods grace is to be magnified, if he give us to ſee the evil of it, and to repent in time. Think of this I beſeech you who ever you are, that at ſuch times as when the ordinances of God are diſpen<g ref="char:EOLhyphen"/>ſing, can content your ſelves, either to lie ſleeping in you beds, or to be walking in the ſtreetes, or ſitting in a Tavern
+<pb n="77" facs="tcp:35631:59"/>or Alehouſe, or following the ſevice of your luſts; when you ſhould be wait<g ref="char:EOLhyphen"/>ing on the ſervice of God. Looke to it, God will make you ſorry for this another day. I am bold to commend the example of this ſervant of God to your conſideration, who thought it not below himſelfe to profeſſe his deſires to be humbled before the Lord for neglects of this kinde; though probably he might be able to give better excuſes, then any of theſe fore<g ref="char:EOLhyphen"/>mentioned, yet nothing would ſa<g ref="char:EOLhyphen"/>tisfiy till God did ſpeake pardon, and peace.</p>
+            <p>In his relation to the Church he ſhewed himſelf to be a true member, by his compaſſionating of the miſſereies, and relieving the neceſſities of the members, even of forrein Churches, when oportunities were offered, and alſo by his lamenting the diviſions, and fearing the dangers, of our own Church at home.</p>
+            <p>He was a lover of good men, and eſpe<g ref="char:EOLhyphen"/>cially of good miniſters &amp; that for their work ſake. And in teſtimony thereof, it was his deſire and endeavour, that in all places, either in Church or Common<g ref="char:EOLhyphen"/>wealth, that were in his power to diſpoſe
+<pb n="78" facs="tcp:35631:60"/>of there might be ſuch ſet up as be judged able and like to do good in them. Nei<g ref="char:EOLhyphen"/>ther was he willing that this affection ſhould die with him: But he commend<g ref="char:EOLhyphen"/>ed it as one of his laſt charges to him whom he deſired to be an heir to God and his grace, as well as to him and his eſtate.</p>
+            <p>In his relation to the commonwealth (I meane the common good of his country) He was a reſolute aſſertor of his countries liberties, not fearing to reprove, or withſtand the irregular actings of any to their prejudice. How much was he grieved at his countries ſuf<g ref="char:EOLhyphen"/>ferings? How earneſtly did he deſire the haſtning of her deliverance? How ſor<g ref="char:EOLhyphen"/>ry that the way and meanes of deliver<g ref="char:EOLhyphen"/>ance were ſo much, and ſo often obſtru<g ref="char:EOLhyphen"/>cted. His judgment was as he was pleaſed with ſome freedom to expreſſe himſelf (even in the greateſt exceſſe of all the actings to the contrary) that the only perſon under heaven that was likely to heal our breaches was he whom we truſt the Lord in mercy hath made to be ſuch indeed, even our gracious ſo<g ref="char:EOLhyphen"/>veraign.</p>
+            <p>And whereas ſome have been apt to conceive ſome prejudice againſt him,
+<pb n="79" facs="tcp:35631:60"/>becauſe he ſuffered not himſelf to be per<g ref="char:EOLhyphen"/>ſwaded into that height of action which was expected, when they thought it ſea<g ref="char:EOLhyphen"/>ſonable. I doubt not but that he did con<g ref="char:EOLhyphen"/>curre with them, in their generall end, but might not be ſo well ſatisfied in the meanes. It was not (I am aſſured) through want of will, and readineſs, to do his Country ſervice, but becauſe the wayes propoſed, appeared to him more likely to increaſe then eaſe her burdens.</p>
+            <p>There is none that knew him, (laying but their paſſions aſide) that would eaſily judge it to be ſloth or cowardiſe, that he was not more apt to hearken, but ra<g ref="char:EOLhyphen"/>ther prudent warineſſe. <hi>Decipi non po<g ref="char:EOLhyphen"/>teſt, qui non est facilis audire.</hi> He is hard to be deceived, that is not eaſie of belief. <hi>The ſimple believeth every word, but the prudent man looketh well to his go<g ref="char:EOLhyphen"/>ing,</hi> Prov. 30.6.</p>
+            <p>
+               <hi>Peritia eſt, non ſegnities, quum ſenſum miles veteranus accendit.</hi> It ought to be eſteemed wiſedom or skillfullneſſe, when an experienced ſoldier doth ſtir up, and awaken his ſenſe to looke before he leap. He was not apt to be raſh in un<g ref="char:EOLhyphen"/>dertaking, but what ever he undertook for the ſervice of his country, he was
+<pb n="80" facs="tcp:35631:61"/>reſolved to go thorough with it, with all faithfullneſs and integrity, profeſſing himſelf ready to looſe all, but a good conſcience. Yet even then when others were cenſuring of him, he was not wanting to do his country good, and that in ſuch wayes, as were more ſafe and ſure. And doubtleſſe a wiſe patient will preferre the leyſurely working of a skillfull Phyſitian, in a way that is ſafe: before the violent attempts of ſuch as may pretend to a ſpeedier cure. As knowing that violent actings are even hazardous. and doe but ſeldom proſ<g ref="char:EOLhyphen"/>per.</p>
+            <p>In his relations to his family, friends and neighbours, he was not wanting in any reſpects that might belong unto them.</p>
+            <p>As to his compaſſionating of, and libe<g ref="char:EOLhyphen"/>rality towards the poor in relieving them in their neceſſities; I cannot deny him this teſtimony, that in requeſts of that nature, I have not only obtained what I deſired, but alſo thanks for the motion.</p>
+            <p>His ſobriety, temperance, and mo<g ref="char:EOLhyphen"/>deration in his health, his meekneſſe, and patience in his ſickneſſe, were known to all that converſt with him.</p>
+            <pb n="81" facs="tcp:35631:61"/>
+            <p>In a word, he was ſuch a one as de<g ref="char:EOLhyphen"/>ſerved to be honoured in his life, and to be lamented in his death.</p>
+            <p>Be therefore ſenſible, all ye his re<g ref="char:EOLhyphen"/>lations, and lament your loſſe.</p>
+            <p>Children, you have loſt a dear and tender father; who (as his expreſſion was) feared nothing more, then that he ſhould love you too much. Brethren and ſiſters, I nead not mind you, who may be apt to be more then enough ſenſible of the reality and conſtancy of his love towards you, and delight in you, even unto the laſt.</p>
+            <p>Kinred, and friends, and neigbours rich and poor, I need ſay no more, but that you have loſt a great friend, and tru<g ref="char:EOLhyphen"/>ly that is a great loſſe.</p>
+            <p>Servants, you have loſt a maſter that loved you while he lived, and was not unmindfull to make ſome proviſion for you when he was preparing for death.</p>
+            <p>I ſhall adde no more but this, The Church hath loſt a generous and an un<g ref="char:EOLhyphen"/>corrupted patron, and his country a conſtant and a faithfull patriot.</p>
+            <p>But yet if any there be that ſhall be ambitious of adding to their own praiſe, by detracting from his, or of extenuat<g ref="char:EOLhyphen"/>ing
+<pb n="82" facs="tcp:35631:62"/>their own errours, by aggravating of his. I know detractors may be apt to mutter and whiſper ſaying, it were well if all this were true, and it were well if ſomthing elſe were not true. And why are not his failings cenſured, as well as his virtues praiſed?</p>
+            <p>Such I ſhall anſwer as our Saviour doth thoſe importunate Jewes, who were ſo ſevere in demanding juſtice upon others. <hi>He that is without ſin let him cast the firſt ſtone at him,</hi> Joh. 8.7. There is no doubt but he had his fail<g ref="char:EOLhyphen"/>ings and ſins, yea and if you will hear and believe him bearing witneſſe againſt himſelf, They were many and great. But yet this is the manner of Gods proceedings,<note place="margin">1 Cor. 11.31</note> ſuch as judge, and condemn themſelves, ſhall not be judged, nor condemned of the Lord. <hi>And ſhall mor<g ref="char:EOLhyphen"/>tall man be more juſt then God? ſhall a man be more pure then his maker?</hi> Job. 4.17.</p>
+            <p>Yea but peardventure ſome good men may be troubled, becauſe he did no more good.</p>
+            <p>Brethren, It is deſireable that good ſhould be done by others. But it is more profitable for us to be found doing of good our ſelves. I have ſaid, that I
+<pb n="83" facs="tcp:35631:62"/>have often found him ready to do good, and willing to communicate; and had the Lord given him but a little more time, I have reaſon to believe that he would have done much more good; and that he did no more I cannot but in part impute the blame unto my ſelf, in that in ſome reſpect I had not been his remembrancer more ſeaſonably.</p>
+            <p>The truth is, in great men, it is ſome<g ref="char:EOLhyphen"/>thing to find ſome good, and not rare to find much evill; their actions are ſubjeſt to many obſervers, if they do well they loſe no praiſe, if they do evill no reproach. If <hi>Jeroboams</hi> ſon, hath but ſome good thing found in him to<g ref="char:EOLhyphen"/>wards the Lord God of <hi>Iſrael,</hi> it is not forgotten. Be you therefore perſwaded, to be alwayes doing of more good your ſelves, leſt you ſhould be found guilty of the ſame neglect you condemn in others. And intreat the Lord with all earneſt<g ref="char:EOLhyphen"/>neſs, that whereever he gives a large eſtate, he would alſo give a large heart, or elſe, it is but in vain for us to looke for a large hand.</p>
+            <p>I hope that which hath been ſpoken may be of ſome uſe for the ſupport of ſuch, as are mourning over their dead. But yet if any ſhall exceed, the laſt ob<g ref="char:EOLhyphen"/>ſervation
+<pb n="84" facs="tcp:35631:63"/>raiſed from the text, relative<g ref="char:EOLhyphen"/>ly conſidred, may be of ſome advantage to them; Which is this</p>
+            <p>When any are apt to exceed in mour<g ref="char:EOLhyphen"/>ning over their friends dead body, wiſh<g ref="char:EOLhyphen"/>ing it might be reſtored again to life tem<g ref="char:EOLhyphen"/>poral: It is ſeaſonable to mind them of the moſt effectual meanes of raiſing up their own dead ſouls unto life ſpiritual and eternal.</p>
+            <p>Thus dealt Jeſus Chriſt with <hi>Martha</hi> here, ſhe is ever minding, and ſpeak<g ref="char:EOLhyphen"/>ing of the death of her brother, and of the raiſing up of his body. And Chriſt takes her off to a more ſerious and pro<g ref="char:EOLhyphen"/>fitable conſideration, of the ſpirituall (and in ſome reſpect) dead eſtate of her own ſoul, and of the meanes of quick<g ref="char:EOLhyphen"/>ning and raiſing it up to the perfection of life, ſpiritual and eternal.</p>
+            <p>And believe it this is the greateſt concernment we have to look after, even the reſurrection of our ſouls: and to that end we are to lay hold upon Chriſt by faith, which is the only means of raiſing up and quickning dead ſouls. <hi>He that live and believeth in me ſhall never die. Believest thou this,</hi> ſaith Jeſus Chriſt to <hi>Martha.</hi> Thou heareſt that Chriſt is the reſurrection
+<pb n="85" facs="tcp:35631:63"/>of the body, from death temporall, and of death ſpiritual, and eternall; and that he that believeth in him ſhall never die, but doeſt thou believe? Be<g ref="char:EOLhyphen"/>lieveſt thou this?</p>
+            <p>What would it have availed <hi>Martha,</hi> if Chriſt ſhould have raiſed up <hi>Lazarus,</hi> his dead body frow the grave, and have left her own foul to lie dead in ſin.</p>
+            <p>And what would it availe us if Chriſt ſhould now raiſe our dead friend to life temporall, and not raiſe our dead ſouls unto life eternall.</p>
+            <p>Let us ſtirre up our ſelves to take hold on God; let us live the life of faith, and we ſhall be ſo far from being over grie<g ref="char:EOLhyphen"/>ved, at the death of our friend, that we ſhall joyfully entertain our own. We ſhall be as willing to leave the world, as the tired mariner is to leave the ſea, af<g ref="char:EOLhyphen"/>ter he hath been ſpent with the tediouſ<g ref="char:EOLhyphen"/>neſs of a long &amp; dangerous voyage, after he hath paſſed many a painfull day, and tedious night, and bitter ſtorme, with much longing expexctation, and yet ſees no land. If at length he once more comes within ken of that his whiſhed ſhore, how is he then ready to leap for joy; and to cry out with him in the poet.</p>
+            <pb n="86" facs="tcp:35631:64"/>
+            <q>Italiam, Italiam, primus conclamat Achates.<note place="margin">Virg. Aneid. <hi>l. 3.</hi>
+               </note>
+            </q>
+            <p>Oh my friends, my companions, be of good chear, behold, I ſee, I ſee that ſo long lookt for and deſired ſhore. Be<g ref="char:EOLhyphen"/>hold yonder is the place of our reſt, the habitation of our parents and wives and children, and kinred, and friends, It ſeems to me as if I ſaw how they rejoyce at our arrivall, Oh ſlack not, but haſt that we may be in their boſomes. Even ſo is it with the dying believer, he is come within ſight of heaven, and is ready to cry out with <hi>Steven,</hi> even then when his enraged enemies were round a<g ref="char:EOLhyphen"/>bout him, and that cut to the heart, and gnaſhing on him with their teeth; He can then cry out and ſay (looking up ſtedfaſtly unto heaven) Behold I ſee the heavens opened, and the ſon of man ſtanding on the right hand of God. How willing and cheerfull is he to bid the troubleſom, inconſtant and envious world adieu, being now ready to enter into that haven of reſt, the armes of his ſaviour.</p>
+            <p>Let us be ſound and ſtedfaſt in the faith, let us be ſervent in charity, con<g ref="char:EOLhyphen"/>ſtant lively, and a bounding even to the
+<pb n="87" facs="tcp:35631:64"/>full aſſurance of hope; Let us live in a conſcionable, and cheerfull exerciſe of every grace, and let patience have her perfect work: for aſmuch as we know in ſo doing our labour will not be in vain in the Lord. This will evidence that we have our part in the firſt reſurrection, and bleſſed and holy are ſuch, for over them the ſecond death ſhall have no power.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35631:65"/>
+            <head>Curteous. READER, Theſe bookes following are printed for, and ſold by <hi>Edward Prwſter</hi> at the <hi>Crane</hi> in <hi>Pauls</hi> Church-yard, 1661.</head>
+            <list>
+               <item>MR. <hi>Elton</hi> his Commentary on the 7.8, 9. <hi>Chap.</hi> of the <hi>Romans. foll.</hi>
+               </item>
+               <item>Mr. <hi>Hilderſham</hi> his 108. Lectures on 4th. <hi>Iohn. foll.</hi>
+               </item>
+               <item>Mr. <hi>Hilderſham</hi> his Lectures on 51. <hi>Pſal. foll.</hi>
+               </item>
+               <item>Mr. <hi>Georg Newton</hi> his Commentary on <hi>Iohn.</hi> 17. <hi>foll.</hi>
+               </item>
+               <item>Dr. <hi>Iermium</hi> on all the <hi>Proverbs. foll.</hi>
+               </item>
+               <item>Bp. <hi>Williams</hi> his right way to the beſt Religion, wherein at large is explayned the principle heads of the Goſpel. <hi>foll.</hi>
+               </item>
+               <item>The Largeſt Church Bible. <hi>foll.</hi>
+               </item>
+               <item>Mr. <hi>Pryns</hi> Hidden works of darkneſſe brought to light. <hi>foll.</hi>
+               </item>
+               <item>Mr. <hi>Ball</hi> his Treatiſe of the nature and life of faith. 4.</item>
+               <item>Mr. <hi>Ball</hi> his larg and ſmall Catt. 8.</item>
+               <pb facs="tcp:35631:65"/>
+               <item>Mr. <hi>Bonthams</hi> Chriſtian conflict.</item>
+               <item>Mr. <hi>Baxter</hi> of Crucifying the world by the croſſe of Chriſt. 4.</item>
+               <item>Dr. <hi>Burges</hi> ſeveral ſelect ſermons pre<g ref="char:EOLhyphen"/>ched before the Parliament. 4.</item>
+               <item>A collection of ſeveral ſelect ſermons preched before the Parliament. 4.</item>
+               <item>Mr. <hi>Cawdrey</hi> of the Inconſiſtency of the Independent way with Scripture and its ſelf. 4.</item>
+               <item>Mr. <hi>Cawdrey</hi> he Anſwers to <hi>G. Firmium</hi> about Baptiſme</item>
+               <item>The Agreement of the aſſociated Mini<g ref="char:EOLhyphen"/>ſters of <hi>Eſſex</hi> and <hi>Cheſter.</hi>
+               </item>
+               <item>
+                  <hi>Canans</hi> Calamity, or the deſtruction of of <hi>Ieruſalem.</hi> 4.</item>
+               <item>Mr. <hi>Coohe</hi> learned Treatiſe of Babtiſme 4.</item>
+               <item>Mr. <hi>Collye</hi> of the Salbate, and againſt free admiſſion to the ſacrament; ſeverall ſermons of Mr. <hi>Paul Baycon.</hi>
+               </item>
+               <item>Mr. <hi>Barlowes</hi> guid to Glory. 4.</item>
+               <item>Mr. <hi>Calvin</hi> on <hi>Ieremiah.</hi> 4.</item>
+               <item>Mr. <hi>Negus</hi> of faith and obediance. 4.</item>
+               <item>Mr. <hi>Ienkins</hi> ſermons. 4.</item>
+               <item>Mr. <hi>Ienkins</hi> his anſwer to <hi>Iohn Goodwin.</hi> 4.</item>
+               <item>Mr. <hi>Gattaker</hi> againſt <hi>Lilly.</hi> 4.</item>
+               <item>
+                  <hi>Galleni Opuſcula Varia Annotonic.</hi> 4.</item>
+               <item>
+                  <hi>Spelinam conſilia. foll.</hi>
+               </item>
+               <item>
+                  <hi>Spelinam Pſalterium Saxonicum.</hi> 4.</item>
+               <pb facs="tcp:35631:66"/>
+               <item>Mr. <hi>Geree</hi> againſt Anababtiſts. 4.</item>
+               <item>Mr. <hi>Joſſelynes</hi> ſtate of the Saints depar<g ref="char:EOLhyphen"/>ted; Gods cordiall to comfort the Saints remaining a live. 8.</item>
+               <item>Mr. <hi>Randoll</hi> on 8th. <hi>Romans.</hi> 4.</item>
+               <item>Mr. <hi>Randoll</hi> on the Church. 4.</item>
+               <item>Dr. <hi>Hollidayes Motives</hi> to a good life in ten ſermons. 4.</item>
+               <item>Mr. <hi>Rutherfords</hi> divine right of Church Government. 4.</item>
+               <item>Dr. <hi>Potter</hi> of the <hi>Number.</hi> 666. 4.</item>
+            </list>
+            <p>There is now in the preſſe a book enti<g ref="char:EOLhyphen"/>tuled <hi>Fides Catholica</hi> or a vindication of the Church of <hi>England &amp;c.</hi> by Mr. <hi>William Annand</hi> Miniſter of Gods word at <hi>Leighton</hi> in <hi>Bedford</hi>-ſhere.</p>
+            <pb facs="tcp:35631:66"/>
+         </div>
+      </back>
+   </text>
+</TEI>
